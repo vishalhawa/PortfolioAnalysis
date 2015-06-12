@@ -1,0 +1,531 @@
+Aris,App Name,Region,Geographical Region,Client Countries,Bus Area,"Functional
+Group",Remedy Support Queue,Service entitlement,App Size,Average Monthly Ticket Volume Incidents,Average Monthly Ticket Volume  P1,Average Monthly Ticket Volume P2,Average Monthly Ticket Volume P3,Average Monthly Ticket Volume P4,Average Monthly Ticket Volume Problems,Average Monthly Ticket Volume CRs,Approx Number of Users,Application Complexity,Ease of Transition,Platform OS Type ,Database Type,Comments
+AP-072,MRS AP-072,Asia Pacific,Asia Pacific,Australia,Material to Inventory,,AP Australia Appl Support,Bronze,,0.3,,,,0.3,,0.1,50,High,,"Windows File share
+2003 2008 depending on site","Access database 2008
+",
+AP-238,KA REGISTER AP-238,Asia Pacific,Asia Pacific,Australia,Record to Report,,AP Australia Appl Support,Bronze,,1,,,,1,,,15,High,,0,0,
+AP-616,TOLAS LCS (LOCATION CONTROL SYSTEM) AP-616,Asia Pacific,Asia Pacific,Australia,Plan to Cash,Integrated Supply Chain,AP Australia Appl Support,Gold,,1,,,,1,,,1,High,,Windows 2003,SQL,
+EU-1142,MAGASIN BONBONS EU-1142,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Bronze,,1,,,1,,1,,5,High,,Wintel server,,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1143,SIMATIC IT HALLE EU-1143,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Silver,,1,,,1,,1,,25,High,,Windows 2003 Server,N/A,Tickets logged directly with Siemens on portal.  
+EU-1197,BANDEROLEUSE INTERFACE EU-1197,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Silver,,1,,,1,,1,,10,High,,Windows Svr 2003 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1226,COST TO SERVE EU-1226,Europe,Europe,Italy,Plan to Cash,Integrated Supply Chain,KFE Italy PTC Supply Chain Appl Support,Silver,,1,,,1,,1,,30,High,,Windows Svr 2003 R2 Standard,Oracle 9.2.06,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1232,CRP-FLOW EU-1232,Europe,Europe,,Plan to Cash,Integrated Supply Chain,KFE Iberia PTC Supply Chain Appl Support,Bronze,,1,,,1,,1,,10,High,,Windows Svr 2003 R2 Standard,Oracle 8,Calculated from avg Bronze apps in region
+EU-1269,FREEWEIGH.NET_UV EU-1269,Europe,Europe,Sweden,Material to Inventory,Integrated Supply Chain,KFE Nordic Manufacturing Appl Support,Bronze,,1,,,1,,1,,20,High,,Windows Svr 2008 R2 Enterprise,SQL Server 10.00.5500.0,Based on Remedy 3 month data
+EU-1308,LINE MONITORING NAMUR EU-1308,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Bronze,,1,,,1,,1,,50,High,,Windows Svr 2003 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1311,LOGISTIC COST CONTROL EU-1311,Europe,Europe,Italy,Plan to Cash,Integrated Supply Chain,KFE Italy PTC Supply Chain Appl Support,Bronze,,1,,,1,,1,,5,High,,Windows Svr 2003 R2 Standard,Oracle 10.1 or older 9.2.06,Based on Remedy 3 month data
+EU-1340,PAFF_UV EU-1340,Europe,Europe,Sweden,Material to Inventory,Integrated Supply Chain,KFE Nordic Manufacturing Appl Support,Silver,,1,,,1,,1,,30,High,,Windows Svr 2008 R2 Enterprise,Oracle 10.2.0.3.0,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1377,SAISIES PRODUCTION EU-1377,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Silver,,1,,,1,,1,,25,High,,Windows Svr 2008 R2 Enterprise,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1413,TMTS EU-1413,Europe,Europe,Belgium,Sell to Customer,Front Office,KFE Benelux STC Sales Appl Support,Bronze,,1,,,1,,1,,40,High,,Windows Svr 2003 R2 Standard,SQL Server 2003,Calculated from avg Bronze apps in region
+EU-1514,POM.NET EU-1514,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Silver,,1,,,1,,1,,50,High,,Windows Svr 2003 R2 Standard,N/A,End of life system but need to check on replacment timing
+EU-1515,POM.NET EU-1515,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Silver,,1,,,1,,1,,35,High,,Windows Svr 2003 R2 Standard,N/A,End of life system but need to check on replacment timing
+EU-1517,POM.NET EU-1517,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Silver,,1,,,1,,1,,50,High,,Windows Svr 2003 R2 Standard,N/A,End of life system but need to check on replacment timing
+EU-1578,ACTIVE FACTORY RAPPORTS TRACABILITE EU-1578,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France Plants Engineering Appl Support,Bronze,,1,,,1,,1,,8,High,,Wintel server,,Calculated from avg Bronze apps in region
+EU-1706,MES EU-1706,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Gold,,1,,,1,,1,,100,High,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1708,MTT TOOLBOX EU-1708,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Bronze,,1,,,1,,1,,20,High,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1733,SEGEPAR (BESANCON) EU-1733,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Gold,,1,,,1,,1,,4,High,,"Desktop - Windows 7
+","Desktop - Windows 7
+",Based on local knowledge due to not being recorded in remedy
+EU-1781,KTM EU-1781,Multi Region,"EEMEA, Europe",Slovakia,Source to Pay,Integrated Supply Chain,KFE Cross-functional Appl Support,Bronze,,1,,,1,,1,,50,High,,Windows Svr 2003 R2 Standard,N/A,Calculated from avg Bronze apps in region
+EU-2122,EBI EU-2122,Europe,Europe,Portugal,Sell to Customer,Front Office,,Bronze,,1,,,1,,1,,285,High,,,N/A,Calculated from avg Bronze apps in region
+EU-2123,EBI EU-2123,Europe,Europe,Spain,Sell to Customer,Front Office,,Bronze,,1,,,1,,1,,285,High,,,N/A,Calculated from avg Bronze apps in region
+EU-2131,CATMAN STORE EU-2131,Europe,Europe,Switzerland,Sell to Customer,Front Office,,Bronze,,1,,,1,,1,,32,High,,,N/A,Calculated from avg Bronze apps in region
+EU-2195,ACTIWIN EU-2195,Europe,Europe,Switzerland,Sell to Customer,Front Office,,Bronze,,1,,,1,,1,,1,High,,,N/A,Calculated from avg Bronze apps in region
+EU-2558,SEGEPAR (CESTAS) EU-2558,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Gold,,1,,,1,,1,,3,High,,"Desktop - Windows 7
+","Desktop - Windows 7
+",Based on local knowledge due to not being recorded in remedy
+EU-2560,SEGEPAR (CHATEAU THIERRY) EU-2560,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Gold,,1,,,1,,1,,4,High,,"Desktop - Windows 7
+","Desktop - Windows 7
+",Based on local knowledge due to not being recorded in remedy
+EU-2561,SEGEPAR (GRANVILLE) EU-2561,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Gold,,1,,,1,,1,,4,High,,"Desktop - Windows 7
+","Desktop - Windows 7
+",Based on local knowledge due to not being recorded in remedy
+EU-2562,SEGEPAR (JUSSY) EU-2562,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Gold,,1,,,1,,1,,4,High,,"Desktop - Windows 7
+","Desktop - Windows 7
+",Based on local knowledge due to not being recorded in remedy
+EU-2563,SEGEPAR (LHF) EU-2563,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Gold,,1,,,1,,1,,4,High,,"Desktop - Windows 7
+","Desktop - Windows 7
+",Based on local knowledge due to not being recorded in remedy
+EU-2564,SEGEPAR (TOULOUSE) EU-2564,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Gold,,1,,,1,,1,,4,High,,"Desktop - Windows 7
+","Desktop - Windows 7
+",Based on local knowledge due to not being recorded in remedy
+EU-2565,SEGEPAR (VERVINS) EU-2565,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Gold,,1,,,1,,1,,4,High,,"Desktop - Windows 7
+","Desktop - Windows 7
+",Based on Remedy 3 month data
+EU-2728,SEGEPAR (ATC) EU-2728,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Gold,,1,,,1,,1,,4,High,,"Desktop - Windows 7
+","Desktop - Windows 7
+",Based on local knowledge due to not being recorded in remedy
+AP-457,MARKETING ROLLING SALES AP-457,Asia Pacific,Asia Pacific,Thailand,Plan to Cash,Integrated Supply Chain,AP Thailand Application On-site,Bronze,,2,,,1,1,,,3,High,,,,
+AP-480,MYAPPS AP-480,Asia Pacific,Asia Pacific,Australia,Core Business Processes,Enterprise Systems,AP Australia Appl Support,Bronze,,2,,,1,1,,,1,High,,Sharepoint 2008,Sharepoint server 2008,
+AP-699,KRONOS WORKFORCE CENTRAL V6.2 AP-699,Asia Pacific,Asia Pacific,"New Zealand, Australia",Manage People,,AP Australia Appl Support,Silver,,2,,,,2,,,300,High,,Windows,Microsoft SQL,
+EU-1171,SCHEDE CLIENTI EU-1171,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Bronze,,2,,,2,,2,,52,High,,AIX 7.1,Oracle 10.1 or older 9.2.06,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1231,CRANE-BOX EU-1231,Europe,Europe,Sweden,Plan to Cash,Integrated Supply Chain,KFE Nordic PTC Supply Chain Appl Support,Gold,,2,,,2,,2,,10,High,,Windows Svr 2003 R2 Standard,N/A,Calculated from Avg of Gold apps in region
+EU-1302,KINC EU-1302,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Bronze,,2,,,2,,2,,5,High,,Windows 2003 Server 5/02.3790,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1379,SALES PLAN EU-1379,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Bronze,,2,,,2,,2,,250,High,,Windows Svr 2003 R2 Standard,Microsoft SQL Server 20059.00.5057.00,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1399,SIRIO INVENTORY EU-1399,Europe,Europe,Italy,Plan to Cash,Integrated Supply Chain,KFE Italy STC Sales Appl Support,Silver,,2,,,2,,2,,25,High,,,,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1401,SIRIO PPD EU-1401,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Silver,,2,,,2,,2,,300,High,,,,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1404,SIRIO YEB EU-1404,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Silver,,2,,,2,,2,,60,High,,,,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1415,TRADE DEALS WORKFLOW EU-1415,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Silver,,2,,,2,,2,,400,High,,AIX,Oracle 9.2.06,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1652,QUOFORE EU-1652,Europe,Europe,Switzerland,Sell to Customer,Front Office,KFE Switzerland STC O4 QUOFORE Appl Support,Silver,,2,,,2,,2,,40,High,,,N/A,Based on Remedy 3 month data
+EU-1703,LOCAL EDI EU-1703,Europe,Europe,Belgium,Plan to Cash,Integrated Supply Chain,KFE Benelux PTC Appl Support,Gold,,2,,,2,,2,,50,High,,,N/A,Calculated from Avg of Gold apps in region
+EU-1712,REFLEX MP/MC/PF EU-1712,Europe,Europe,Belgium,Plan to Cash,Integrated Supply Chain,,Gold,,2,,,2,,2,,80,High,,,N/A,Calculated from Avg of Gold apps in region
+EU-1722,OCS-XDOCK EU-1722,Europe,Europe,France,Plan to Cash,Integrated Supply Chain,KFE France PTC Supply Chain Appl Support,Silver,,2,,,2,,2,,10,High,,Microsoft Windows Server 2003  Enterprise Edition,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2712,KASS EU-2712,Europe,Europe,Spain,Sell to Customer,Front Office,KFE Iberia STC Sales Appl Support,Silver,,2,,,2,,2,,140,High,,SunOS,Oracle 10.2.0.4,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2713,KPP EU-2713,Europe,Europe,Spain,Sell to Customer,Front Office,KFE Iberia STC Sales Appl Support,Silver,,2,,,2,,2,,30,High,,SunOS,Oracle 10.2.0.4,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2714,RAPPEL EU-2714,Europe,Europe,Spain,Sell to Customer,Front Office,KFE Iberia STC Sales Appl Support,Silver,,2,,,2,,2,,1,High,,Windows 2003 Standard R2,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2715,DSS EU-2715,Europe,Europe,"Spain, Portugal",Sell to Customer,Front Office,KFE Iberia STC Sales Appl Support,Silver,,2,,,2,,2,,400,High,,Windows Svr 2003 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+NA-760,CTA NA-760,Multi Region,"Asia Pacific, Europe","Viet Nam, Switzerland",Source to Pay,Integrated Supply Chain,KFE STP CTA Commodity Trading & Administration Appl Support,Silver,,2,,,2,,,,100,High,,Desktop - Windows 7,Desktop - Windows 7,
+EU-2577,DEMONSTRATIVE TOOL EU-2577,EEMEA,EEMEA,Russian Federation,Integrated Business Planning,Integrated Supply Chain,CEEMA Russia Service Desk,Bronze,,2.25,0.25,,2,,,,15,High,,Desktop - Windows 7,Desktop - Windows 7,
+AP-187,HR 21 AP-187,Asia Pacific,Asia Pacific,Australia,Manage People,,AP Australia Appl Support,Bronze,,2.5,,,,2.5,,0.2,1200,High,,Desktop - Windows 7,Desktop - Windows 7,
+AP-703,FOFGEN.NET AP-703,Asia Pacific,Asia Pacific,Australia,Plan to Cash,Integrated Supply Chain,AP Australia Appl Support,Silver,,3,,,3,,2,,5,High,,NA,NA,
+EU-1160,PRINTING SERVICE EU-1160,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Silver,,3,,,3,,3,,1,High,,Windows 2003 Enterprise R2,N/A,Based on local knowledge
+EU-1295,INTRACK EU-1295,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France Plants Engineering Appl Support,Silver,,3,,,3,,3,,40,High,,Windows Svr 2003 R2 Standard,N/A,Calculated from Avg of Silver apps in region
+EU-1322,PRINTING SERVICE EU-1322,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Silver,,3,,,3,,3,,10,High,,Windows Svr 2003 R2 Standard,N/A,Based on local knowledge
+EU-1346,PALA EU-1346,Europe,Europe,Germany,Material to Inventory,Integrated Supply Chain,KFE Germany Manufacturing Appl Support,Silver,,3,,,3,,3,,30,High,,HPUX,N/A,Calculated from Avg of Silver apps in region
+EU-1513,PRINTING SERVICE EU-1513,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Silver,,3,,,3,,3,,1,High,,Windows 2003 Standard R2,N/A,Based on local knowledge
+EU-1678,QLIKVIEW EU-1678,Europe,Europe,Italy,Material to Inventory,Integrated Supply Chain,KFE Italy Manufacturing Appl Support,Silver,,3,,,3,,3,,20,High,,,N/A,Calculated from Avg of Silver apps in region
+EU-1711,PROMOTOOL (PIT) EU-1711,Europe,Europe,"Belgium, Netherlands",Sell to Customer,Front Office,KFE Benelux STC Sales Appl Support,Silver,,3,,,3,,3,,50,High,,,N/A,Calculated from Avg of Silver apps in region
+EU-2699,ACERTA EU-2699,Europe,Europe,Belgium,Manage People,Corporate Functions,KFE Benelux HTR Appl Support,Silver,,3,,,3,,3,,10,High,,,N/A,Calculated from Avg of Silver apps in region
+EU-2707,BCOMM EU-2707,Europe,Europe,"Belgium, Netherlands",Manage People,Corporate Functions,KFE Benelux HTR Appl Support,Silver,,3,,,3,,3,,3000,High,,Windows Svr 2003 R2 Standard,SQL Server 10.50.2500.0,Calculated from Avg of Silver apps in region
+EU-1238,DEALMAN (YEB) EU-1238,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Silver,,4,,,4,,4,,35,High,,Windows Svr 2003 R2 Standard,N/A,Based on Remedy 3 month data
+EU-1923,HUMAN MANAGER EU-1923,EEMEA,EEMEA,Ghana,Manage People,Corporate Functions,,Gold,,5,,,1,4,,,72,High,,"Any OS that can run JAVA Runtime Environment
+Windows 2003 Server. Java based application","MICROSOFT SQL ENTER MGR. VER 8.0 
+MS SQL 2005",
+EU-2982,OPAL MEC Server  EU-2982,EEMEA,EEMEA,Pakistan,Record to Report,Corporate Functions,CEEMAE-UAE Dubai Onsite HCL,Silver,,5,,5,,,,0.25,7,High,,Windows Server 2008 R2,MS SQL Server 2008 R2 Ent,
+EU-3061,Synchrolink (EDI) BIMO EU-3061,EEMEA,EEMEA,Morocco,Plan to Cash,Integrated Supply Chain,CEEMA Morocco Service Desk,Silver,,5,,1,2,2,,,1,High,risky,hosted remotely,n/a,
+AP-617,TOLAS WAREHOUSE MANAGEMENT SYSTEM AP-617,Asia Pacific,Asia Pacific,Australia,Plan to Cash,Integrated Supply Chain,AP Australia Appl Support,Gold,,8,,4,2,2,,,1,High,,Open VMS 8.3-1h1,SQL,
+EU-1563,SCORE REPORTING SYSTEM EU-1563,Multi Region,"Asia Pacific, Europe, Latin America, EEMEA",,Plan to Cash,Integrated Supply Chain,EMEA PTC Manugistics Product Supply,Silver,,8,,,8,,6,2,150,High,,AIX 7.1,Oracle 9.2.06,Based on Remedy 3 month data
+EU-2599,SQL: CHICAGO EU-2599,EEMEA,EEMEA,Russian Federation,Sell to Customer,Front Office,CEEMA Russia Service Desk,Bronze,,9,,4,5,,,2,5,High,,Windows Server 2008R2 Enterprise 64 bit, MS SQL 2008 R2 Enterprise 64 bit,
+EU-1077,MFG/PRO  EU-1077,EEMEA,EEMEA,Ukraine,Material to Inventory,Integrated Supply Chain,CEEMA Ukraine Kyiv NM On-site,Gold,,10,0.2,2,7.8,,,,350,High,,Linux Red Hat 5,Progress 9.1,
+EU-1555,SATURN REL 1.5 EU-1555,Europe,Europe,"Germany, Finland, Belgium, Denmark, Italy, Norway, Sweden, Netherlands, France",Sell to Customer,Front Office,EMEA STC Saturn Siebel Appl Support,Silver,,10,,,10,,10,,1600,High,,Windows Svr 2003 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1557,SATURN ANALYTICS EU-1557,Europe,Europe,"Sweden, Norway, Belgium, Finland, Netherlands, Denmark",Sell to Customer,Front Office,EMEA STC Saturn Siebel Appl Support,Silver,,10,,,10,,10,,200,High,,Windows Svr 2003 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1559,SATURN REL 2 EU-1559,Europe,Europe,Sweden,Sell to Customer,Front Office,EMEA STC Saturn Siebel Appl Support,Silver,,10,,,10,,10,,15,High,,Windows Svr 2003 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1761,PROFIL EU-1761,Europe,Europe,France,Sell to Customer,Front Office,KFE France STC Sales Appl Support,Silver,,15,,,15,,15,,300,High,,Microsoft Windows Server 2003  Enterprise Edition,IBM WAS DB2,Based on Remedy 3 month data
+EU-3000,EASY SALES - SFA EU-3000,EEMEA,EEMEA,Morocco,Sell to Customer,Front Office,CEEMA Morocco Service Desk,Gold,,15,,3,5,8,,,135,High,risky,Windows Server 2003,MS SQL 2005 / Upgraded to SQL 2008 R2,
+EU-908,SMART EU-908,EEMEA,EEMEA,"Belarus, Ukraine, Kazakhstan, Georgia",Sell to Customer,Front Office,CEEMA Ukraine Kyiv NM On-site,Bronze,,20,2,6,12,,,4,255,High,,Windows Server 2008,SQL Server 2005 Ent,
+AP-743,Acumen AP-743,Asia Pacific,Asia Pacific,"New Zealand, Australia",Sell to Customer,Front Office,AP Australia Appl Support,Gold,,24,,0.5,13,10.5,,2.5,200,High,,Windows 2003,Oracle/Siebel 2003,
+EU-3071,eDistributor EU-3071,EEMEA,EEMEA,Nigeria,Sell to Customer,Front Office,CEEMA Nigeria On-site,Gold,,40,,,,40,,<1,10,High,,Windows Server 2008,MS SQL Server 2008 R2,
+AP-337,DEMANTRA AP-337,Asia Pacific,Asia Pacific,Australia,Plan to Cash,Integrated Supply Chain,AP ANZ Demantra (Infosys),Gold,,47,,0.5,12,34.5,,1,50,High,,"Windows 2003
+","Oracle/Siebel
+",
+EU-1350,PCE EU-1350,Europe,Europe,United Kingdom,Sell to Customer,Front Office,KFE UK Ireland Cross-functional Appl Support,Bronze,,60,,2,50,,50,8,255,High,,AIX 4.3.3,SQL Server 9.00.5057.00,Based on Remedy 3 month data (Currently supported by Infosys)
+AP-736,NAVIGATOR AP-736,Asia Pacific,Asia Pacific,Australia,Sell to Customer,,AP Australia Appl Support,Silver,,76,,,,,,,300,High,,Windows 2008 R2 SP1,SQL Server 2012 SP1,
+EU-3090,Fleet Management EU-3090,EEMEA,EEMEA,Nigeria,Corporate Services,Corporate Functions,CEEMA Nigeria On-site,Bronze,,0,,,,1,,,3,High,,Windows Server 2003,SQL Server 2005,
+AP-505,PARADIGM II AP-505,Asia Pacific,Asia Pacific,"Australia, New Zealand",Material to Inventory,,AP Australia Appl Support,Bronze,,0,,,,,,,10,High,,"Windows Server 2003
+Service Pack 2",n/a,
+EU-1095,FAMM EU-1095,EEMEA,EEMEA,Ukraine,Record to Report,Corporate Functions,CEEMA Ukraine Kyiv NM On-site,Bronze,,0.1,,,0.1,,,0.1,4,Low,,Desktop - Windows 7,Desktop - Windows 7,
+AP-482,NAB ONLINE AP-482,Asia Pacific,Asia Pacific,Australia,Record to Report,,AP Australia Appl Support,Bronze,,0.3,,,,0.3,,,5,Low,,Desktop - Windows 7,Desktop - Windows 7,
+AP-149,NZPCBANK AP-149,Asia Pacific,Asia Pacific,Australia,Record to Report,,AP Australia Appl Support,Bronze,,0.5,,0.3,,0.5,,,5,Low,,Desktop - Windows 7,,
+AP-298,BNZ PC BANKING AP-298,Asia Pacific,Asia Pacific,Australia,Record to Report,,AP Australia Appl Support,Bronze,,0.5,,,,0.5,,,5,Low,,Desktop - Windows 7,Desktop - Windows 7,
+AP-092,CHEPMATE AP-092,Asia Pacific,Asia Pacific,Australia,Material to Inventory,,AP Australia Appl Support,Bronze,,1,,,,1,,0.1,10,Low,,"Windows 2003
+""
+",,
+AP-746,Artwork AP-746,Asia Pacific,Asia Pacific,China,Market to Consumer,Front Office,AP China Application Support,Silver,,1,,,, 1, 3, 1,200,Low,,"Windows 2008 R2 Ent
+","SQl 2008 
+",
+EU-1023,PLATNIK EU-1023,Europe,Europe,Poland,Manage People,Corporate Functions,CEEMA Poland Applications,Bronze,,1,,,1,,1,,10,Low,,Windows 2003 Enterprise R2 SP2,Microsoft SQL Server 20008.00.2039,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1126,EAN 128 EU-1126,Europe,Europe,Portugal,Material to Inventory,Integrated Supply Chain,KFE Iberia MTI Appl Support,Silver,,1,,,1,,1,,5,Low,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1132,FREEWEIGH.NET EU-1132,Europe,Europe,Spain,Material to Inventory,Integrated Supply Chain,KFE Iberia MTI Appl Support,Bronze,,1,,,1,,1,,1,Low,,,,Already retired according to ARIS
+EU-1159,PRENOTAZIONE BENI AZIENDALI EU-1159,Europe,Europe,Italy,Manage People,Corporate Functions,KFE Italy PTC Supply Chain Appl Support,Bronze,,1,,,1,,1,,800,Low,,5.02.3790 ID 2 SP2,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1177,VENDITA INTERNA EU-1177,Europe,Europe,Italy,Manage People,Corporate Functions,KFE Italy PTC Supply Chain Appl Support,Bronze,,1,,,1,,1,,400,Low,,Windows Svr 2003 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1179,ZEIT EU-1179,Europe,Europe,Portugal,Manage People,Corporate Functions,KFE Iberia MTI Appl Support,Silver,,1,,,1,,1,,4,Low,,Windows Svr 2003 R2 Standard,SQL Server 9.00.5057.00,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1181,ABSOLUTE DATA EU-1181,Europe,Europe,Belgium,Sell to Customer,Front Office,KFE Benelux STC Sales Appl Support,Bronze,,1,,,1,,1,,25,Low,,Windows Svr 2003 R2 Standard,SQL Server 2003,Calculated from avg Bronze apps in region
+EU-1187,ALCHEMY EU-1187,Europe,Europe,Spain,Plan to Cash,Integrated Supply Chain,KFE Iberia PTC Supply Chain Appl Support,Bronze,,1,,,1,,1,,10,Low,,"Desktop - Window 7
+",N/A,Calculated from avg Bronze apps in region
+EU-1194,ASM EU-1194,Europe,Europe,Spain,Source to Pay,Integrated Supply Chain,KFE Iberia MTI Appl Support,Silver,,1,,,1,,1,,5,Low,,Windows 2003 Server,Microsoft SQL Server 2000 8.00.2055,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1205,CALITEL 5.4 EU-1205,Europe,Europe,Spain,Material to Inventory,Integrated Supply Chain,KFE Iberia MTI Appl Support,Bronze,,1,,,1,,1,,78,Low,,Windows Svr 2008 R2 Enterprise,Microsoft SQL Server 2000 8.00.2055,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1253,ELIOT EU-1253,Europe,Europe,France,Manage People,Corporate Functions,KFE France HTR Appl Support,Bronze,,1,,,1,,1,,25,Low,,Microsoft Windows Server 2003  Enterprise Edition,SQL 2005,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1254,EMCAT TVC (PREVAS) EU-1254,Europe,Europe,Sweden,Plan to Cash,Integrated Supply Chain,KFE Nordic PTC Supply Chain Appl Support,Bronze,,1,,,1,,1,,1,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-1256,ESSBASE EU-1256,Europe,Europe,Germany,Record to Report,Corporate Functions,KFE Germany Appl Support,Silver,,1,,,1,,1,,200,Low,,Windows 2000,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1260,EVALOS EU-1260,Europe,Europe,Spain,Manage People,Corporate Functions,KFE Iberia MTI Appl Support,Silver,,1,,,1,,1,,8,Low,,Windows Svr 2003 R2 Standard,Microsoft SQL Server 2000 8.00.2055,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1287,HOLIDAY REQUEST (RFL) EU-1287,Europe,Europe,"Netherlands, Belgium",Manage People,Corporate Functions,KFE Benelux HTR Appl Support,Bronze,,1,,,1,,1,,300,Low,,Windows Svr 2003 R2 Standard,SQL Server 2003,Calculated from avg Bronze apps in region
+EU-1289,ID WORKS EU-1289,Europe,Europe,"Norway, Denmark, Sweden",Manage People,Corporate Functions,KFE Nordic HTR Appl Support,Bronze,,1,,,1,,1,,12,Low,,Windows Svr 2008 R2 Enterprise,SQL Server 10.00.5500.0,Calculated from avg Bronze apps in region
+EU-1318,TECHNICAL SHEET GENERATOR EU-1318,Europe,Europe,Belgium,Plan to Cash,Integrated Supply Chain,KFE Benelux STC Sales Appl Support,Bronze,,1,,,1,,1,,10,Low,,Windows Svr 2003 R2 Standard,SQL Server 2003,Calculated from avg Bronze apps in region
+EU-1362,PRASA EU-1362,Europe,Europe,Switzerland,Manage People,Corporate Functions,KFE Germany Appl Support (Infosys),Bronze,,1,,,1,,1,,3,Low,,Windows 2003 Standard,Oracle 9.2.0.7,Calculated from avg Bronze apps in region
+EU-1367,PRODUCTION DB EU-1367,Europe,Europe,Switzerland,Material to Inventory,Integrated Supply Chain,KFE Switzerland MTI Appl Support,Bronze,,1,,,1,,1,,50,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-1369,PROMETHEUS EU-1369,Europe,Europe,Germany,Material to Inventory,Integrated Supply Chain,KFE Germany Manufacturing Appl Support,Bronze,,1,,,1,,1,,30,Low,,Windows Svr 2003 R2 Standard,N/A,Calculated from avg Bronze apps in region
+EU-1402,SIRIO PROMO EU-1402,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Silver,,1,,,1,,1,,250,Low,,,,Based on Remedy 3 month data
+EU-1420,V2K BILVEKTSYSTEM EU-1420,Europe,Europe,Norway,Material to Inventory,Integrated Supply Chain,KFE Nordic Manufacturing Appl Support,Silver,,1,,,1,,1,,2,Low,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1444,TAXSPOOLER SERVER EU-1444,Europe,Europe,Greece,Record to Report,Corporate Functions,KFE Greece RTR Finance Appl Support,Bronze,,1,,,1,,1,,1,Low,,Windows Svr 2003 R2 Standard,N/A,Calculated from avg Bronze apps in region
+EU-1537,E-SIAS EU-1537,Europe,Europe,,Manage People,Corporate Functions,,Bronze,,1,,,1,,1,,1,Low,,Windows 2003 Server Enterprise,N/A,Calculated from avg Bronze apps in region
+EU-1540,POS EU-1540,Europe,Europe,Austria,Sell to Customer,Front Office,KFE Germany Appl Support,Silver,,1,,,1,,1,,1,Low,,,,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1542,CAPEPACK EU-1542,Europe,Europe,Greece,Product Lifecycle Management,Integrated Supply Chain,KFE Greece Manufacturing Appl Support,Bronze,,1,,,1,,1,,3,Low,,Desktop - Windows 7,Desktop - Windows 7,Based on local knowledge due to not being recorded in remedy
+EU-1567,CAPEPACK EU-1567,Europe,Europe,Spain,Product Lifecycle Management,Integrated Supply Chain,KFE Iberia STC Sales Appl Support,Bronze,,1,,,1,,1,,10,Low,,,N/A,Based on local knowledge due to not being recorded in remedy
+EU-1580,CONTROL VISION EU-1580,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France Plants Engineering Appl Support,Bronze,,1,,,1,,1,,2,Low,,"Desktop - Windows 7
+","Desktop - Windows 7
+",Calculated from avg Bronze apps in region
+EU-1581,"ECODIAL V3,3 EU-1581",Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France Plants Engineering Appl Support,Bronze,,1,,,1,,1,,2,Low,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-1582,"ECODIAL V3,37 EU-1582",Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France Plants Engineering Appl Support,Bronze,,1,,,1,,1,,2,Low,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-1583,SECard EU-1583,Europe,Europe,France,Corporate Services,Corporate Functions,KFE France HTR Appl Support,Bronze,,1,,,1,,1,,2,Low,,"Desktop - Windows 7
+","Desktop - Windows 7
+",Based on tickets asssigned to queue divided by no of apps in queue
+EU-1590,HABILEC EU-1590,Europe,Europe,France,Manage People,Corporate Functions,KFE France HTR Appl Support,Bronze,,1,,,1,,1,,70,Low,,Windows Svr 2008 R2 Enterprise,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1591,HID EU-1591,Europe,Europe,France,Manage People,Corporate Functions,KFE France HTR Appl Support,Bronze,,1,,,1,,1,,1,Low,,Desktop - Windows 7,Desktop - Windows 7,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1599,NFC 15-100 EU-1599,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France Plants Engineering Appl Support,Bronze,,1,,,1,,1,,2,Low,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-1600,PACKELEC EU-1600,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France Plants Engineering Appl Support,Bronze,,1,,,1,,1,,2,Low,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-1606,SSE PRÉSENTS SUR LE SITE EU-1606,Europe,Europe,France,Manage People,Corporate Functions,KFE France HTR Appl Support,Bronze,,1,,,1,,1,,19,Low,,Solaris 5.1,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1608,SUIVI_AUDITS EU-1608,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Bronze,,1,,,1,,1,,30,Low,,Windows Svr 2008 R2 Enterprise,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1614,CCPORTAL EU-1614,Europe,Europe,Germany,Market to Consumer,Front Office,KFE Germany Appl Support (Infosys),Bronze,,1,,,1,,1,,20,Low,,Windows Svr 2008 Standard,Oracle 9.2.06,Calculated from avg Bronze apps in region
+EU-1617,ASSOCIATION DATABASE EU-1617,Europe,Europe,,Corporate Services,Corporate Functions,KFE Germany Appl Support (Infosys),Bronze,,1,,,1,,1,,5,Low,,Windows Svr 2008 Standard,N/A,Calculated from avg Bronze apps in region
+EU-1623,FACTLIB EU-1623,Europe,Europe,,Corporate Services,Corporate Functions,KFE Germany Appl Support (Infosys),Bronze,,1,,,1,,1,,10,Low,,,,Calculated from avg Bronze apps in region
+EU-1687,WEB-APPS MISC EU-1687,Europe,Europe,Germany,Collaboration and Content Services,CTO,KFE Germany Appl Support (Infosys),Bronze,,1,,,1,,1,,20,Low,,Windows Svr 2003 R2 Standard,N/A,Calculated from avg Bronze apps in region
+EU-1693,COSWIN EU-1693,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Bronze,,1,,,1,,1,,200,Low,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1696,ET WEB EU-1696,Europe,Europe,"Belgium, Netherlands",Manage People,Corporate Functions,KFE Benelux HTR Appl Support,Bronze,,1,,,1,,1,,200,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-1765,DIAMS EU-1765,Europe,Europe,France,Corporate Services,Corporate Functions,KFE France RTR Finance Appl Support,Bronze,,1,,,1,,1,,5,Low,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-1808,EYEQUESTION EU-1808,Europe,Europe,Belgium,Product Lifecycle Management,Integrated Supply Chain,KFE Benelux MTI Appl Support,Bronze,,1,,,1,,1,,25,Low,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1882,RELIABILITY CENTRED MAINT EU-1882,EEMEA,EEMEA,Kenya,Material to Inventory,Integrated Supply Chain,,Bronze,,1,,,1,,,,2,Low,,Desktop - Windows 7,Desktop - Windows 7,
+EU-2048,MIKADO - CEEMA - HTR EU-2048,EEMEA,EEMEA,Turkey,Manage People,Corporate Functions,CEEMA Turkey Applications,Bronze,,1,,,1,,,,4,Low,,Windows server STD 2003 64 bit,Firebird 0.2.0.34,
+EU-2089,BULK PRINTING VIA ITNET EU-2089,Europe,Europe,"United Kingdom, Ireland",Plan to Cash,Integrated Supply Chain,,Bronze,,1,,,1,,1,,1,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2108,RISK (ACCESS DB) EU-2108,Europe,Europe,Spain,Material to Inventory,Integrated Supply Chain,,Bronze,,1,,,1,,1,,4,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2117,LVISION (WMS) EU-2117,Europe,Europe,Greece,Plan to Cash,Integrated Supply Chain,,Bronze,,1,,,1,,1,,1,Low,,Windows 2003,,Calculated from avg Bronze apps in region
+EU-2121,SQL CONTROLLING EU-2121,Europe,Europe,Poland,Material to Inventory,Integrated Supply Chain,,Bronze,,1,,,1,,1,,15,Low,,Windows,N/A,Calculated from avg Bronze apps in region
+EU-2133,PRISM EU-2133,Europe,Europe,Greece,Plan to Cash,Integrated Supply Chain,,Bronze,,1,,,1,,1,,1,Low,,AS/400,OS/400,Calculated from avg Bronze apps in region
+EU-2134,HERBST EU-2134,Europe,Europe,"United Kingdom, Ireland",Manage People,Corporate Functions,,Bronze,,1,,,1,,1,,1,Low,,Windows Svr 2003 R2 Standard,N/A,Calculated from avg Bronze apps in region
+EU-2144,QPSMR EU-2144,Europe,Europe,"United Kingdom, Ireland",Product Lifecycle Management,Integrated Supply Chain,,Bronze,,1,,,1,,1,,5,Low,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-2149,MODDE EU-2149,Europe,Europe,"United Kingdom, Ireland",Product Lifecycle Management,Integrated Supply Chain,,Bronze,,1,,,1,,1,,5,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2151,CATGLOBE EU-2151,Europe,Europe,Switzerland,Product Lifecycle Management,Integrated Supply Chain,,Bronze,,1,,,1,,1,,4,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2155,ADEST EU-2155,Europe,Europe,Ireland,Material to Inventory,Integrated Supply Chain,,Bronze,,1,,,1,,1,,10,Low,,Windows,N/A,Calculated from avg Bronze apps in region
+EU-2156,DAISE EU-2156,Europe,Europe,"Ireland, United Kingdom",Product Lifecycle Management,Integrated Supply Chain,,Bronze,,1,,,1,,1,,1,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2159,ALIANZ GEA EU-2159,Europe,Europe,Poland,Manage People,Corporate Functions,,Bronze,,1,,,1,,1,,10,Low,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-2161,POLSYSTEM KD RCP EU-2161,Europe,Europe,Poland,Corporate Services,Corporate Functions,,Bronze,,1,,,1,,1,,4,Low,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-2163,TETA EU-2163,Europe,Europe,Poland,Manage People,Corporate Functions,,Bronze,,1,,,1,,1,,1,Low,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-2320,I-GRASP EU-2320,Europe,Europe,"United Kingdom, Switzerland, Ireland",Manage People,Corporate Functions,,Bronze,,1,,,1,,1,,1,Low,,AIX 4.3.3,Oracle 7.3.4,Calculated from avg Bronze apps in region
+EU-2391,DOORS ACCESS CONTROL EU-2391,Europe,Europe,Greece,Corporate Services,Corporate Functions,,Bronze,,1,,,1,,1,,3,Low,,,,Calculated from avg Bronze apps in region
+EU-2441,SPACEMAN EU-2441,Europe,Europe,Netherlands,Sell to Customer,Front Office,,Bronze,,1,,,1,,1,,1,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2481,DMS EU-2481,Europe,Europe,Poland,Plan to Cash,Integrated Supply Chain,,Bronze,,1,,,1,,1,,1,Low,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-2487,STREAM SERVE EU-2487,Europe,Europe,"United Kingdom, Ireland",Plan to Cash,Integrated Supply Chain,,Bronze,,1,,,1,,1,,1,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2615,MP2 EU-2615,Europe,Europe,Poland,Material to Inventory,Integrated Supply Chain,,Bronze,,1,,,1,,1,,6,Low,,Windows Svr 2003 Standard,Microsoft SQL Server 2008 10.2.4000.0,Calculated from avg Bronze apps in region
+EU-2658,CONSUMERSCAN EU-2658,Europe,Europe,Hungary,Sell to Customer,Front Office,,Bronze,,1,,,1,,1,,3,Low,,Windows 2003 Server,N/A,Calculated from avg Bronze apps in region
+EU-2661,FLEET MANAGEMENT EU-2661,Multi Region,"Europe, EEMEA","Hungary, Nigeria",Manage People,Corporate Functions,,Bronze,,1,,,1,,1,,2,Low,,AIX 5.00.2195,N/A,Calculated from avg Bronze apps in region
+EU-2678,SAFIR EU-2678,Europe,Europe,"Slovakia, Czech Republic",Sell to Customer,Front Office,,Bronze,,1,,,1,,1,,20,Low,,Windows Svr 2003 R2 Standard,N/A,Calculated from avg Bronze apps in region
+EU-2690,FORECAST TOOL EU-2690,Europe,Europe,Spain,Record to Report,Corporate Functions,KFE Iberia RTR Finance Appl Support,Silver,,1,,,1,,1,,30,Low,,SunOS,Oracle 10.2.0.4,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2702,ID WORKS EU-2702,Europe,Europe,"Netherlands, Belgium",Manage People,Corporate Functions,KFE Benelux HTR Appl Support,Bronze,,1,,,1,,1,,12,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2709,SCAN TIMER EU-2709,Europe,Europe,Greece,Manage People,Corporate Functions,KFE Greece HTR Appl Support,Bronze,,1,,,1,,1,,1,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2710,CENTAUR EU-2710,Europe,Europe,,Manage People,Corporate Functions,KFE Greece HTR Appl Support,Bronze,,1,,,1,,1,,1,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2711,JDA EU-2711,Europe,Europe,Belgium,Sell to Customer,Front Office,KFE Benelux STC Sales Appl Support,Bronze,,1,,,1,,1,,10,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2727,SIMATIC IT SPAIN EU-2727,Europe,Europe,Spain,Material to Inventory,Integrated Supply Chain,KFE Iberia MTI Appl Support,Gold,,1,,,1,,1,,10,Low,,,,Tickets logged directly with Siemens on portal.  
+EU-2791,MOBIL EU-2791,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Bronze,,1,,,1,,1,,1,Low,,"Desktop - Windows 7
+","Desktop - Windows 7
+",Based on tickets asssigned to queue divided by no of apps in queue
+EU-2796,PRINTETIQ EU-2796,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France Plants Engineering Appl Support,Bronze,,1,,,1,,1,,1,Low,,Desktop - Windows 7,Desktop - Windows 7,Based on Remedy 3 month data
+EU-2837,CONFIGEST EU-2837,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Bronze,,1,,,1,,1,,1,Low,,Desktop - Windows 7,Excel 2010,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2846,HRO EU-2846,Europe,Europe,Italy,Manage People,Corporate Functions,KFE Italy Manufacturing Appl Support,Bronze,,1,,,1,,1,,5,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2847,NAVISION (NORWAY) EU-2847,Europe,Europe,Norway,Sell to Customer,Front Office,KFE Nordic STC Sales Appl Support,Bronze,,1,,,1,,1,,1,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2851,FIZZ EU-2851,Europe,Europe,France,Product Lifecycle Management,Integrated Supply Chain,KFE France Quality and R&D Appl Support,Bronze,,1,,,1,,1,,5,Low,,Windows Svr 2008 R2 Enterprise,N/A,Calculated from avg Bronze apps in region
+EU-2863,BALYO EU-2863,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France Plants Engineering Appl Support,Bronze,,1,,,1,,1,,2,Low,,Wintel server,N/A,Calculated from avg Bronze apps in region
+EU-2874,eDisplay Customization EU-2874,Europe,Europe,,Plan to Cash,Integrated Supply Chain,,Bronze,,1,,,1,,1,,1,Low,,,,Calculated from avg Bronze apps in region
+EU-2882,T&A Tool (MS Access) EU-2882,Europe,Europe,Poland,Manage People,Corporate Functions,CEEMA Poland Applications,Bronze,,1,,,1,,1,,2,Low,,Desktop - Windows 7,Desktop - Windows 7,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2905,NexONBER EU-2905,Europe,Europe,Hungary,Manage People,Corporate Functions,,Bronze,,1,,,1,,1,,3,Low,,Windows W2K3 Ent R2 SP2,N/A,Calculated from avg Bronze apps in region
+EU-2909,RFR Meeting Room Reservation EU-2909,Europe,Europe,Germany,Corporate Services,Corporate Functions,,Bronze,,1,,,1,,1,,10,Low,,Windows Svr 2008 R2 Enterprise,Microsoft SQL Server 2008 10.0.5512.0,Calculated from avg Bronze apps in region
+EU-2910,Swiss+ letter of reference EU-2910,Europe,Europe,Switzerland,Manage People,Corporate Functions,,Bronze,,1,,,1,,1,,0,Low,,Windows Svr 2008 R2 Enterprise,Microsoft SQL Server 2008 10.0.5512.0,Calculated from avg Bronze apps in region
+EU-2950,DATAGAIN EU-2950,Europe,Europe,France,Source to Pay,Integrated Supply Chain,KFE France STP Procurement Appl Support,Bronze,,1,,,1,,1,,0,Low,,,,Calculated from avg Bronze apps in region
+EU-2954,CAPE PACK EU-2954,Europe,Europe,"Slovenia, Croatia, Serbia",Product Lifecycle Management,Integrated Supply Chain,,Bronze,,1,,,1,,1,,1,Low,,,N/A,Based on local knowledge due to not being recorded in remedy
+EU-2955,CHRONOS EU-2955,Europe,Europe,Croatia,Manage People,Corporate Functions,,Bronze,,1,,,1,,1,,4,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2956,MOJ ARHIV EU-2956,Europe,Europe,Slovenia,Record to Report,Corporate Functions,,Bronze,,1,,,1,,1,,4,Low,,,N/A,Calculated from avg Bronze apps in region
+EU-2957,AB Soft EU-2957,Europe,Europe,Serbia,Manage People,Corporate Functions,,Bronze,,1,,,1,,1,,6,Low,,Windows W2K8 R2 x64 Stn SPO,Microsoft SQL Server 200810.1.2531.0,Calculated from avg Bronze apps in region
+EU-2961,MAS EU-2961,Europe,Europe,Spain,Plan to Cash,Integrated Supply Chain,,Bronze,,1,,,1,,1,,0,Low,,W2003 SP2,,Calculated from avg Bronze apps in region
+EU-2971,OPAL Turkey EU-2971,EEMEA,EEMEA,Turkey,Record to Report,Corporate Functions,CEEMA Turkey Applications,Bronze,,1,,,,,,1,16,Low,,Windows Server 2008 Hosted by HP (tbc with OPAL team),MS SQL 2008Hosted by HP,
+EU-2991,"German Sales SQL-DB Apps (Kundenspieker, RES)  EU-2991",Europe,Europe,Germany,Sell to Customer,Front Office,,Bronze,,1,,,1,,1,,30,Low,,,,Calculated from avg Bronze apps in region
+EU-2992,German Sales SQL-DB Apps (Siebel-SQL-Reporting Instore Agenda)  EU-2992,Europe,Europe,Germany,Sell to Customer,Front Office,,Bronze,,1,,,1,,1,,30,Low,,SQL-DB,,Calculated from avg Bronze apps in region
+EU-3009,SIMATIC IT OSLO EU-3009,Europe,Europe,Norway,Material to Inventory,Integrated Supply Chain,KFE Nordic Manufacturing Appl Support,Silver,,1,,,1,,1,,10,Low,,,,Tickets logged directly with Siemens on portal.  
+EU-3018,ACL Analytics Desktop Edition EU-3018,Europe,Europe,France,Record to Report,Corporate Functions,KFE France RTR Finance Appl Support,Bronze,,1,,,1,,1,,5,Low,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-3028,DADSU v01X08 EU-3028,Europe,Europe,France,Manage People,Corporate Functions,KFE France HTR Appl Support,Bronze,,1,,,1,,1,,5,Low,,Desktop - Windows 7,Desktop - Windows 7,Based on tickets asssigned to queue divided by no of apps in queue
+EU-3029,AED v01X08 EU-3029,Europe,Europe,France,Manage People,Corporate Functions,KFE France HTR Appl Support,Bronze,,1,,,1,,1,,5,Low,,Desktop - Windows 7,Desktop - Windows 7,Based on tickets asssigned to queue divided by no of apps in queue
+EU-3052,Customer Information EU-3052,Europe,Europe,Spain,Master Data,Enterprise Systems,,Bronze,,1,,,1,,1,,4,Low,,Desktop - Window 7, Access 2013 – Oracle 10.2.0.1.0,Calculated from avg Bronze apps in region
+EU-3055,SHOP application EU-3055,Europe,Europe,Germany,Corporate Services,Corporate Functions,,Bronze,,1,,,1,,1,,10,Low,,windows,,Calculated from avg Bronze apps in region
+EU-3119,Statistica EU-3119,Europe,Europe,"Ireland, United Kingdom",Product Lifecycle Management,Integrated Supply Chain,,Bronze,,1,,,1,,1,,10,Low,,,,Calculated from avg Bronze apps in region
+NA-1584,NIST 08 NA-1584,Multi Region,"North America, EEMEA, Europe","Canada, United Kingdom, United States",Product Lifecycle Management,Integrated Supply Chain,,Bronze,,1,,,1,,,,20,Low,,Desktop - Windows 7,Desktop - Windows 7,
+NA-1622,ERPLINK NA-1622,Multi Region,"North America, Latin America",,Collaboration and Content Services,CTO,Global CCS Sharepoint 2007 Technical Support,Bronze,,1,,,1,,,,50000,Low,,,,
+NA-1623,KNOWLEDGE LAKE NA-1623,Multi Region,"Latin America, North America",,Collaboration and Content Services,CTO,Global CCS Sharepoint 2007 Technical Support,Bronze,,1,,,1,,,,50000,Low,,,,
+AP-241,QMP AP-241,Asia Pacific,Asia Pacific,Australia,Material to Inventory,Integrated Supply Chain,AP Australia Appl Support,Bronze,,2,,,1,1,,,10,Low,,N/A,"Microsoft SQL Server
+SQL Server 2005",
+AP-747,ATOM AP-747,Asia Pacific,Asia Pacific,China,Sell to Customer,Front Office,AP China Application Support,Gold,,2,,,, 2,3,2,5000,Low,,"Windows 2008 R2 Ent
+","SQL 2008 R2
+",
+EU-1207,CAMELIA (CONCESSIONARI) EU-1207,Europe,Europe,Italy,Record to Report,Corporate Functions,KFE Italy RTR Finance Appl Support,Bronze,,2,,,2,,2,,2,Low,,Windows 2003 Standard R2,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1209,CATMAN EU-1209,Europe,Europe,Spain,Sell to Customer,Front Office,KFE Iberia STC Sales Appl Support,Bronze,,2,,,2,,2,,26,Low,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1320,MEDIA CONTACT EU-1320,Europe,Europe,France,Sell to Customer,Front Office,KFE France STC Sales Appl Support,Bronze,,2,,,2,,2,,160,Low,,Windows 2003 Server,Oracle 11.2.0.2.0,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1633,IBM DATASTAGE ETL EU-1633,Europe,Europe,,Business Intelligence,Enterprise Systems,EMEA ETL Datastage Support,Gold,,2,,,2,,2,,15,Low,,Windows Svr 2003 R2 Standard,N/A,Calculated from Avg of Gold apps in region
+EU-1662,EXOTHERM_UV EU-1662,Europe,Europe,Sweden,Material to Inventory,Integrated Supply Chain,KFE Nordic Manufacturing Appl Support,Bronze,,2,,,2,,2,,8,Low,,,N/A,Based on Remedy 3 month data
+EU-1728,FAMILY PANEL EU-1728,Europe,Europe,France,Market to Consumer,Front Office,KFE France STC Sales Appl Support,Bronze,,2,,,2,,2,,2,Low,,Microsoft Windows Server 2003 R2  Enterprise Edition,IBM Lotus Notes 6,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1736,INTERCO TOOL EU-1736,Europe,Europe,"Italy, France, Spain, Finland, Belgium",Plan to Cash,Integrated Supply Chain,KFE France PTC Supply Chain Appl Support,Silver,,2,,,2,,2,,45,Low,,Microsoft Windows Server 2003  Enterprise Edition,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1776,SYNCHROLINK EU-1776,Europe,Europe,France,B2B,Enterprise Systems,KFE France PTC Supply Chain Appl Support,Silver,,2,,,2,,2,,2,Low,,Microsoft Windows Server 2003  Standard Edition,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1974,KONTUR-EXTERN - CEEMA - B2B EU-1974,EEMEA,EEMEA,Russian Federation,Record to Report,Corporate Functions,CEEMA Russia Service Desk,Bronze,,2,,,,2,,,1,Low,,Desktop - Windows 7,Desktop - Windows 7,
+EU-2566,IPSOA EU-2566,Europe,Europe,Italy,Record to Report,Corporate Functions,KFE Italy RTR Finance Appl Support,Bronze,,2,,,2,,2,,3,Low,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2886,PAYROLL LT EU-2886,Europe,Europe,Lithuania,Manage People,Corporate Functions,CEEMA Lithuania On-site,Bronze,,2,,,2,,2,,4,Low,,Windows Server 2008 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2887,KADRAI EU-2887,Europe,Europe,Lithuania,Manage People,Corporate Functions,CEEMA Lithuania On-site,Bronze,,2,,,2,,2,,9,Low,,Windows 2008 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2889,PASKYRA EU-2889,Europe,Europe,Lithuania,Manage People,Corporate Functions,CEEMA Lithuania On-site,Bronze,,2,,,2,,2,,16,Low,,Windows Server 2008 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2890,KURSAI EU-2890,Europe,Europe,Lithuania,Manage People,Corporate Functions,CEEMA Lithuania On-site,Bronze,,2,,,2,,2,,8,Low,,Windows 2008 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2928,Planet Press EU-2928,Europe,Europe,France,Plan to Cash,Integrated Supply Chain,KFE France PTC Supply Chain Appl Support,Bronze,,2,,,2,,2,,5,Low,,Microsoft Windows Server 2008  Enterprise Edition,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+NA-1636,EYE TRACKER NA-1636,Europe,Europe,Switzerland,Product Lifecycle Management,Integrated Supply Chain,NA PLM Various Appl Support,Bronze,,2,,,2,,2,,10,Low,,Desktop - Windows 7,Desktop - Windows 7,Based on tickets asssigned to queue divided by no of apps in queue
+NA-1890,METALOGIX NA-1890,Multi Region,"North America, Latin America, EEMEA, Europe, Asia Pacific",,Collaboration and Content Services,CTO,Global CCS Sharepoint 2007 Technical Support,Silver,,2,,,2,,,,50,Low,,,,
+NA-1891,NEW GATORS NA-1891,Multi Region,"Latin America, Europe, EEMEA, North America, Asia Pacific",,Collaboration and Content Services,CTO,Global CCS Sharepoint 2010 Business Support,Silver,,2,,,2,,,,50000,Low,,,,
+AP-004,INFINITY AP-004,Asia Pacific,Asia Pacific,Australia,Material to Inventory,,AP Australia Appl Support,Silver,,3,,,,3,,,20,Low,,Windows Server 2003 & 2008(Each site has its own server),,
+AP-744,AR approval request AP-744,Asia Pacific,Asia Pacific,China,Record to Report,Corporate Functions,AP China Application Support,Silver,,3,,,,3,2,2,500,Low,,"Windows 2008 R2 Ent
+","SQl 2008
+",
+AP-745,AR Portal AP-745,Asia Pacific,Asia Pacific,China,Record to Report,Corporate Functions,AP China Application Support,Silver,,3,,,3,,,,150,Low,,"Windows 2008 R2 Ent
+","SQl 2008 
+",
+EU-1021,COMINFO - PASSPORT EU-1021,Europe,Europe,Slovakia,Manage People,Corporate Functions,CEEMA Czech & Slovak Applications,Silver,,3,,,3,,3,,26,Low,,Windows W2K3 R2 Ent SP2,N/A,Calculated from Avg of Silver apps in region
+EU-1046,SIMPLE EU-1046,Europe,Europe,Poland,Manage People,Corporate Functions,,Silver,,3,,,3,,3,,15,Low,,Windows 2003 Enterprise R2 SP2,Microsoft SQL Server 2000 8.00.2039,Calculated from Avg of Silver apps in region
+EU-1106,PIP EU-1106,Europe,Europe,United Kingdom,Plan to Cash,Integrated Supply Chain,KFE UK Ireland Cross-functional Appl Support,Bronze,,3,,,3,,3,,400,Low,,Win2008,None,Based on local knowledge due to not being recorded in remedy
+EU-1220,COMMON LAYER EU-1220,Europe,Europe,Belgium,Plan to Cash,Integrated Supply Chain,KFE Benelux STC Sales Appl Support,Silver,,3,,,3,,3,,2,Low,,Windows Svr 2003 R2 Standard,SQL Server 2003,Calculated from Avg of Silver apps in region
+EU-1257,ESSBASE EU-1257,Europe,Europe,Sweden,Record to Report,Corporate Functions,KFE Cross-functional Appl Support,Silver,,3,,,3,,3,,50,Low,,AIX 5.02.3790,N/A,Calculated from Avg of Silver apps in region
+EU-1333,MULTILOEN PC EU-1333,Europe,Europe,Denmark,Manage People,Corporate Functions,KFE Nordic HTR Appl Support,Silver,,3,,,3,,3,,2,Low,,N/A SAAS,N/A SAAS,Calculated from Avg of Silver apps in region
+EU-1344,PAGO EU-1344,Europe,Europe,Germany,Material to Inventory,Integrated Supply Chain,KFE Germany Manufacturing Appl Support,Silver,,3,,,3,,3,,20,Low,,Windows,N/A,Calculated from Avg of Silver apps in region
+EU-1659,SIMATIC IT BLUDENZ EU-1659,Europe,Europe,Austria,Material to Inventory,Integrated Supply Chain,KFE Austria Manufacturing Appl Support,Silver,,3,,,3,,3,,10,Low,,,,Tickets logged directly with Siemens on portal.  
+EU-1673,SPC EU-1673,Europe,Europe,Italy,Material to Inventory,Integrated Supply Chain,KFE Italy Manufacturing Appl Support,Silver,,3,,,3,,3,,20,Low,,,N/A,Calculated from Avg of Silver apps in region
+EU-2086,QTAR EU-2086,Europe,Europe,"United Kingdom, Ireland",Manage People,Corporate Functions,KFE UK Ireland HTR Appl Support,Bronze,,3,,,3,,3,,1,Low,,Windows Svr 2003 R2 Standard,N/A,Based on local knowledge due to not being recorded in remedy
+EU-2093,OPAS EU-2093,Europe,Europe,"Ireland, United Kingdom",Manage People,Corporate Functions,KFE UK Ireland HTR Appl Support,Bronze,,3,,,3,,3,,5,Low,,Windows Svr 2003 R2 Standard,Oracle 10.1 or older 9.2.0.6.0,Based on local knowledge due to not being recorded in remedy
+EU-2129,BV SWIPE CARD EU-2129,Europe,Europe,"United Kingdom, Ireland",Corporate Services,Corporate Functions,,Bronze,,3,,,3,,3,,1,Low,,Windows Svr 2003 R2 Standard,N/A,This will be moved to Kronos at end of Feb 2015 so should be taken out of scope
+EU-2603,SQL: PRODUCT MDT EU-2603,EEMEA,EEMEA,Russian Federation,Master Data,Enterprise Systems,CEEMA Russia Service Desk,Bronze,,3,,,3,,,,5,Low,,Windows Server 2008R2 Enterprise 64 bit, MS SQL 2008 R2 Enterprise 64 bit,
+EU-2677,VUB BANKING EU-2677,Europe,Europe,Czech Republic,Manage People,Corporate Functions,CEEMA Czech & Slovak Applications,Silver,,3,,,3,,3,,10,Low,,,N/A,Calculated from Avg of Silver apps in region
+EU-2700,RAET EU-2700,Europe,Europe,Netherlands,Manage People,Corporate Functions,KFE Benelux HTR Appl Support,Silver,,3,,,3,,3,,2,Low,,,N/A,Calculated from Avg of Silver apps in region
+EU-2860,SIRIO ON-TIME EU-2860,Europe,Europe,Italy,Plan to Cash,Integrated Supply Chain,KFE Italy PTC Supply Chain Appl Support,Bronze,,3,,,3,,3,,5,Low,,,,Based on Remedy 3 month data
+EU-2946,OPAL EU-2946,Multi Region,"EEMEA, Europe","Romania, Ukraine",Record to Report,Corporate Functions,CEEMA Safir/Cubis,Silver,,3,,,3,,3,,7,Low,,Windows Svr 2008 Standard SP1,Microsoft SQL Server 200810.52.4000.0,Calculated from Avg of Silver apps in region
+EU-3101,OPAL Bulgaria EU-3101,Europe,Europe,Bulgaria,Record to Report,Corporate Functions,,Silver,,3,,,3,,3,,5,Low,,Win 2008R2,,Calculated from Avg of Silver apps in region
+EU-3102,OPAL EAM EU-3102,Europe,Europe,"Croatia, Serbia, Slovenia",Record to Report,Corporate Functions,,Silver,,3,,,3,,3,,5,Low,,Win 2008R2,,Calculated from Avg of Silver apps in region
+EU-3103,OPAL Czech/Slovak EU-3103,Europe,Europe,"Czech Republic, Slovakia",Record to Report,Corporate Functions,,Silver,,3,,,3,,3,,5,Low,,Win 2008R2,,Calculated from Avg of Silver apps in region
+EU-3105,OPAL Hungary EU-3105,Europe,Europe,Hungary,Record to Report,Corporate Functions,,Silver,,3,,,3,,3,,5,Low,,,N/A,Calculated from Avg of Silver apps in region
+EU-3109,OPAL Poland EU-3109,Europe,Europe,Poland,Record to Report,Corporate Functions,,Silver,,3,,,3,,3,,5,Low,,Win 2008R2,,Calculated from Avg of Silver apps in region
+EU-3110,OPAL Baltics EU-3110,Europe,Europe,"Latvia, Lithuania",Record to Report,Corporate Functions,,Silver,,3,,,3,,3,,5,Low,,,N/A,Calculated from Avg of Silver apps in region
+EU-886,OMEKS 2000 EU-886,Europe,Europe,Bulgaria,Manage People,Corporate Functions,CEEMA Bulgaria Applications,Silver,,3,,,3,,3,,5,Low,,Windows Svr 2003 R2 Standard,Microsoft SQL Server 2005 9.1.2047.00,Calculated from Avg of Silver apps in region
+EU-894,WIZSALARY PAYROLL EU-894,Europe,Europe,Romania,Manage People,Corporate Functions,,Silver,,3,,,3,,3,,3,Low,,Windows W2K3 Std SP2,N/A,Calculated from Avg of Silver apps in region
+EU-956,APSO EU-956,Europe,Europe,Slovakia,Manage People,Corporate Functions,,Silver,,3,,,3,,3,,9,Low,,Windows Svr 2003 R2 Enterprise SP2,N/A,Calculated from Avg of Silver apps in region
+EU-971,CUBIS EU-971,Europe,Europe,Hungary,Record to Report,Corporate Functions,,Silver,,3,,,3,,3,,32,Low,,Windows W2K3 Ent R2 SP2,N/A,Calculated from Avg of Silver apps in region
+EU-1003,KODYS EU-1003,Europe,Europe,Czech Republic,Record to Report,Corporate Functions,CEEMA Czech On-site,Bronze,,4,,,4,,4,,5,Low,,Windows Svr 2003 R2 Enterprise SP2,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1039,SATO LABEL GALLERY EU-1039,Europe,Europe,Poland,Material to Inventory,Integrated Supply Chain,CEEMA Poland On-site,Bronze,,4,,,4,,4,,25,Low,,Desktop - Windows 7,Desktop - Windows 7,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2200,MAPS2000 EU-2200,Europe,Europe,"United Kingdom, Ireland",Source to Pay,Integrated Supply Chain,KFE UK Ireland Manufacturing Appl Support,Bronze,,4,,,4,,4,,20,Low,,Windows Server 2012,SQL Server 2012,Based on local knowledge due to not being recorded in remedy
+EU-2884,ZREMBUD EU-2884,Europe,Europe,Poland,Plan to Cash,Integrated Supply Chain,CEEMA Poland On-site,Silver,,4,,,4,,4,,3,Low,,Desktop - Windows 7,Desktop - Windows 7,Based on tickets asssigned to queue divided by no of apps in queue
+EU-3040,Helios - Cla IQ EU-3040,Europe,Europe,Czech Republic,Plan to Cash,Integrated Supply Chain,CEEMA Czech On-site,Silver,,4,,,4,,4,,5,Low,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-3080,Sharp-to-boss EU-3080,EEMEA,EEMEA,Russian Federation,Manage People,Corporate Functions,CEEMA Russia Service Desk,Bronze,,4,,,,4,,0.25,35,Low,,Windows Server 2008,MS SQL 2008,
+unkown,Local payroll ,EEMEA,EEMEA,Turkey,Corporate Services,Corporate Functions,CEEMA Turkey Applications,Gold,,4,,1,1,,,2,0,Low,,,,
+EU-1083,AUTOEXAMENATOR EU-1083,EEMEA,EEMEA,Ukraine,Manage People,Corporate Functions,CEEMA Ukraine Kyiv NM On-site,Bronze,,5,,,5,,,5,10,Low,,Desktop - Windows 7,Desktop - Windows 7,
+EU-1560,ABS EU-1560,Europe,Europe,"Netherlands, Norway, Ireland, Greece, Austria, Denmark, Italy, Belgium, Germany, United Kingdom, France, Finland, Portugal, Switzerland, Spain, Sweden",Plan to Cash,Integrated Supply Chain,EMEA PTC Manugistics Product Supply,Bronze,,5,,,5,,5,,10,Low,,Windows,N/A,Based on Remedy 3 month data
+EU-2199,KRONOS EU-2199,Europe,Europe,"United Kingdom, Ireland",Manage People,Corporate Functions,,Bronze,,5,,,5,,5,,1,Low,,Windows 2008,Microsoft SQL Server 20008.00.2039,This is strategic solution in process of rollout so would expect number to increase as it replaces legacy apps.
+unkown,MYInsight (Trade Edge),Asia Pacific,Asia Pacific,"Malaysia, Philippines & Indonesia ",,,,Silver,,5,2,3,,,,,0,Low,,,,
+EU-2994,Cadbury World EU-2994,Europe,Europe,United Kingdom,Corporate Services,Corporate Functions,KFE UK Ireland RTR Finance Appl Support,Bronze,,6,,,6,,6,,15,Low,,,,Based on local knowledge due to not being recorded in remedy
+EU-3057,E-invoice EU-3057,EEMEA,EEMEA,Turkey,Plan to Cash,Integrated Supply Chain,CEEMA Turkey Applications,Bronze,,7,,1,3,,1,1,6,Low,,Windows server STD 2008 64 bit,SQL 2008 R2 64 bit,
+EU-1924,WINDSX - CEEMA - HTR EU-1924,EEMEA,EEMEA,Nigeria,Manage People,Corporate Functions,CEEMA Nigeria On-site,Bronze,,8,,,,8,,,5,Low,,Windows Server 2003,SQL Server 2005,
+EU-2932,Brandrooms EU-2932,Multi Region,"Europe, Asia Pacific",,Market to Consumer,Front Office,Global CCS Sharepoint 2010 Technical Support,Bronze,,10,,,10,,10,,300,Low,,Sharepoint 2013,Sharepoint 2013,Based on tickets asssigned to queue divided by no of apps in queue
+unkown,Sharepoint Portal  (HR Web Form),Asia Pacific,Asia Pacific,"India, APHQ, ANZ",,,,Bronze,,10,0,0,10,0,0,0,0,Low,,,,
+EU-2987,Local Workflow EBA EU-2987,EEMEA,EEMEA,Turkey,Corporate Services,Corporate Functions,CEEMA Turkey Applications,Bronze,,13,,,3,,,10,700,Low,,Windows server STD 2008,SQL 2008 R2 express edition,
+EU-905,ACROBAT CE STANDARD EU-905,EEMEA,EEMEA,"Ukraine, Georgia, Kazakhstan, Belarus",Record to Report,Corporate Functions,CEEMA Ukraine Kyiv NM On-site,Bronze,,15,,,15,,,15,120,Low,,Desktop - Windows 7,Desktop - Windows 7,
+EU-1242,DIGITAL FORMS EU-1242,Europe,Europe,United Kingdom,Sell to Customer,Front Office,KFE UK Ireland Cross-functional Appl Support,Bronze,,20,,,20,,26,4,2500,Low,,Windows Svr 2003 R2 Standard,SQL Server 9.00.5057.00,Based on Remedy 3 month data
+EU-3123,FAT EU-3123,EEMEA,EEMEA,Egypt,Record to Report,Corporate Functions,CEEMA Egypt Applications,Bronze,,20,,,,,,,10,Low,,,,
+NA-572,E-TRAVEL NA-572,Europe,Europe,,Corporate Services,Corporate Functions,NA CS Corporate Facilities Appl Support,Bronze,,26,,,26,,26,,1,Low,,,,Based on tickets asssigned to queue divided by no of apps in queue
+unkown,"Audit Portal (Merchandizing and Audit App Support for Singapore, HongKong and Taiwan)",Asia Pacific,Asia Pacific,"Singapore, HongKong and Taiwan.",,,AP Australia Appl Support,Bronze,,34,8,23,3,0,0,0,0,Low,,,,
+AP-742,Touch/Edge (WISE) AP-742,Asia Pacific,Asia Pacific,"Indonesia, Australia, New Zealand",Sell to Customer,,AP Australia Appl Support,Silver,,101,1,3,97,,5,1,250,Low,,"Android 4.4.3, iOS 7",,
+EU-3075,Stakeholder Management System EU-3075,EEMEA,EEMEA,Nigeria,Corporate Services,Corporate Functions,CEEMA Nigeria On-site,Bronze,,0,,,,,,,3,Low,,Windows Server 2008,SQL Server 2008 R2 ,
+AP-076,CHEMALERT AP-076,Asia Pacific,Asia Pacific,Australia,Material to Inventory,,AP Australia Appl Support,Bronze,,0,,,,,,,60,Low,,"Browser IE8
+",Browser based  - Windows 7,
+AP-258,EASYLOBBY AP-258,Asia Pacific,Asia Pacific,Australia,Manage People,,AP Australia Appl Support,Bronze,,0,,,,,,,6,Low,,Windows,Microsoft SQL,
+EU-3097,Co-packing tool EU-3097,EEMEA,EEMEA,Russian Federation,Plan to Cash,Integrated Supply Chain,CEEMA Russia Service Desk,Bronze,,0.25,,,0.25,,,,20,Medium,,Microsoft 2008 Server,MS SQL 2008 Server,
+AP-376,FIGTREE AP-376,Asia Pacific,Asia Pacific,Australia,Manage People,,AP Australia Appl Support,Bronze,,0.3,,,,0.3,,,4,Medium,,0,,
+EU-3096,Coman tool EU-3096,EEMEA,EEMEA,Russian Federation,Plan to Cash,Integrated Supply Chain,CEEMA Russia Service Desk,Bronze,,0.5,,0.5,,,,,20,Medium,,Windows 2008 Server,MS SQL 2008,
+AP-065,LIMS AP-065,Asia Pacific,Asia Pacific,Australia,Product Lifecycle Management,,AP Australia Appl Support,Bronze,,1,,,,1,,,22,Medium,,"Windows Server 2003
+Service Pack 2",,
+AP-702,EQUITRAC AP-702,Asia Pacific,Asia Pacific,Australia,IT Services,,AP Australia Appl Support,Silver,,1,,,,1,,,1550,Medium,,Windows Server 2003 R2 Ent,,
+EU-1115,PARAGRAF LEX EU-1115,Europe,Europe,Serbia,Corporate Services,Corporate Functions,,Bronze,,1,,,1,,1,,4,Medium,,Windows W2K8 R2 x64 Stn SPO,Microsoft SQL Server 200810.1.2531.0,Calculated from avg Bronze apps in region
+EU-1134,GLOBAL CONTINUOUS IMPROVEMENT EU-1134,Europe,Europe,,Material to Inventory,Integrated Supply Chain,,Bronze,,1,,,1,,1,,1000,Medium,,Windows 2003 Server Enterprise,N/A,Calculated from avg Bronze apps in region
+EU-1135,INKJET EU-1135,Europe,Europe,Portugal,Material to Inventory,Integrated Supply Chain,KFE Iberia MTI Appl Support,Silver,,1,,,1,,1,,3,Medium,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1138,KANTECH ENTRA PASS EU-1138,Europe,Europe,Greece,Manage People,Corporate Functions,KFE Greece HTR Appl Support,Bronze,,1,,,1,,1,,1,Medium,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-1141,IBM CONTENT MANAGER GERMANY EU-1141,Multi Region,"EEMEA, Europe","Germany, Austria, Russian Federation, Switzerland",Core Business Processes,Enterprise Systems,KFE Germany Appl Support,Silver,,1,,,1,,1,,270,Medium,,Windows Svr 2008 R2 Enterprise,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1146,NEW PRODUCT DEVELOPMENT LAUNCHES EU-1146,Europe,Europe,,Product Lifecycle Management,Integrated Supply Chain,,Bronze,,1,,,1,,1,,100,Medium,,Windows,N/A,Calculated from avg Bronze apps in region
+EU-1163,Q-PLANT EU-1163,Europe,Europe,Spain,Material to Inventory,Integrated Supply Chain,KFE Iberia MTI Appl Support,Silver,,1,,,1,,1,,30,Medium,,Windows Svr 2003 R2 Standard,SQL Server 9.00.5057.00,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1174,SUBSTANCES DANGEREUSES EU-1174,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Bronze,,1,,,1,,1,,3,Medium,,Windows Svr 2008 R2 Enterprise,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1175,VAM EU-1175,Europe,Europe,Italy,Manage People,Corporate Functions,KFE Italy Manufacturing Appl Support,Bronze,,1,,,1,,1,,800,Medium,,LINUX,N/A,Calculated from avg Bronze apps in region
+EU-1176,VARPE EU-1176,Europe,Europe,Portugal,Material to Inventory,Integrated Supply Chain,KFE Iberia MTI Appl Support,Silver,,1,,,1,,1,,4,Medium,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1180,FELIX EU-1180,Europe,Europe,Germany,Source to Pay,Integrated Supply Chain,KFE Germany Manufacturing Appl Support,Bronze,,1,,,1,,1,,15,Medium,,HPUX,N/A,Calculated from avg Bronze apps in region
+EU-1188,API-PRO_GVL EU-1188,Europe,Europe,Sweden,Material to Inventory,Integrated Supply Chain,KFE Nordic Manufacturing Appl Support,Bronze,,1,,,1,,1,,7,Medium,,Windows Svr 2003 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1189,API-PRO_UV EU-1189,Europe,Europe,Sweden,Material to Inventory,Integrated Supply Chain,KFE Nordic Manufacturing Appl Support,Bronze,,1,,,1,,1,,6,Medium,,Windows Svr 2003 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1190,API-PRO_OSLO EU-1190,Europe,Europe,Norway,Material to Inventory,Integrated Supply Chain,KFE Nordic Manufacturing Appl Support,Bronze,,1,,,1,,1,,14,Medium,,Windows Svr 2003 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1248,ECOEMBES EU-1248,Europe,Europe,Spain,Record to Report,Corporate Functions,KFE Iberia RTR Finance Appl Support,Bronze,,1,,,1,,1,,4,Medium,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1250,EDP (TIMBRATURE) EU-1250,Europe,Europe,Italy,Manage People,Corporate Functions,KFE Cross-functional Appl Support,Bronze,,1,,,1,,1,,800,Medium,,Windows Svr 2003 R2 Standard,N/A,Calculated from avg Bronze apps in region
+EU-1265,ESSBASE EU-1265,Europe,Europe,Belgium,Record to Report,Corporate Functions,KFE Benelux RTR Finance Appl Support,Bronze,,1,,,1,,1,,30,Medium,,Windows 2003 Standard R2,N/A,Calculated from avg Bronze apps in region
+EU-1272,FS-INS EU-1272,Europe,Europe,Germany,Record to Report,Corporate Functions,KFE Germany Appl Support,Bronze,,1,,,1,,1,,5,Medium,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1285,GSS EU-1285,Europe,Europe,,Sell to Customer,Front Office,EMEA STC GSS Application,Bronze,,1,,,1,,1,,200,Medium,,Windows 2003 Enterprise Server,N/A,Based on Remedy 3 month data
+EU-1298,ISO 9002 EU-1298,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Bronze,,1,,,1,,1,,400,Medium,,Windows Svr 2003 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1310,LOGG MASTER - PERZONA EU-1310,Europe,Europe,"Sweden, Norway",Manage People,Corporate Functions,KFE Nordic HTR Appl Support,Bronze,,1,,,1,,1,,15,Medium,,Windows,N/A,Calculated from avg Bronze apps in region
+EU-1313,LOGOPAK EU-1313,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Silver,,1,,,1,,1,,92,Medium,,Windows Svr 2003 R2 Standard,Oracle 10.2.0.3.0,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1330,MILTONIA (AGENTI) EU-1330,Europe,Europe,Italy,Record to Report,Corporate Functions,KFE Italy RTR Finance Appl Support,Bronze,,1,,,1,,1,,2,Medium,,AIX 7.1,Oracle 10.1 or older 9.2.06,Based on Remedy 3 month data
+EU-1345,PAGO EU-1345,Europe,Europe,Switzerland,Material to Inventory,Integrated Supply Chain,KFE Switzerland MTI Appl Support,Silver,,1,,,1,,1,,30,Medium,,Windows 2003 Standard R2,Oracle 10.210.2.0.4.0,Based on Remedy 3 month data
+EU-1360,POPSY SYSTEMAT EU-1360,Europe,Europe,Belgium,Record to Report,Corporate Functions,KFE Benelux RTR Finance Appl Support,Bronze,,1,,,1,,1,,2,Medium,,Windows Svr 2003 R2 Standard,N/A,Calculated from avg Bronze apps in region
+EU-1365,PRISMA2 EU-1365,Europe,Europe,Spain,Material to Inventory,Integrated Supply Chain,KFE Iberia MTI Appl Support,Silver,,1,,,1,,1,,14,Medium,,Windows 2003 Server,Microsoft SQL Server 20008.00.2055,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1390,SECURIMASTER ACCESS EU-1390,Europe,Europe,Sweden,Manage People,Corporate Functions,KFE Nordic HTR Appl Support,Bronze,,1,,,1,,1,,6,Medium,,,N/A,Calculated from avg Bronze apps in region
+EU-1391,SEGSOFT DYNAMIC EU-1391,Europe,Europe,"Norway, Sweden",Material to Inventory,Integrated Supply Chain,KFE Nordic Manufacturing Appl Support,Bronze,,1,,,1,,1,,6,Medium,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1397,SIMATIC IT LÖRRACH EU-1397,Europe,Europe,Germany,Material to Inventory,Integrated Supply Chain,KFE Germany Manufacturing Appl Support,Silver,,1,,,1,,1,,35,Medium,,Windows,N/A,Tickets logged directly with Siemens on portal.  
+EU-1403,SIRIO TRADE DEALS EU-1403,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Silver,,1,,,1,,1,,300,Medium,,,,Based on Remedy 3 month data
+EU-1406,SP-EXPERT EU-1406,Europe,Europe,Switzerland,Material to Inventory,Integrated Supply Chain,KFE Switzerland MTI Appl Support,Bronze,,1,,,1,,1,,20,Medium,,Windows 2003 Server,N/A,Calculated from avg Bronze apps in region
+EU-1411,TECHNICAL SHEETS EU-1411,Europe,Europe,Belgium,Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Bronze,,1,,,1,,1,,400,Medium,,Windows Svr 2003 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1427,WILLETT EU-1427,Europe,Europe,Norway,Material to Inventory,Integrated Supply Chain,KFE Nordic Manufacturing Appl Support,Silver,,1,,,1,,1,,28,Medium,,Windows 2003,SQL Server 10.0.5500.0,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1438,DIRMIS EU-1438,Europe,Europe,"Portugal, Sweden, Ireland, Norway, United Kingdom, Greece, Germany, Netherlands, Austria, Denmark, France, Spain, Finland, Switzerland, Belgium",Source to Pay,Integrated Supply Chain,KFE STP DIRMIS Dairy Procurement Appl Support,Bronze,,1,,,1,,1,,106,Medium,,Windows Svr 2003 R2 Enterprise,Microsoft SQL Server 20008.00.2055,Calculated from avg Bronze apps in region
+EU-1441,CARDFIVE PROFESSIONAL EU-1441,Europe,Europe,Greece,Manage People,Corporate Functions,KFE Greece HTR Appl Support,Bronze,,1,,,1,,1,,2,Medium,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-1443,MASTERSIZER MICRO EU-1443,Europe,Europe,Greece,Material to Inventory,Integrated Supply Chain,KFE Greece Manufacturing Appl Support,Bronze,,1,,,1,,1,,1,Medium,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-1446,CAPABILITY FM-DIRECT EU-1446,Europe,Europe,Sweden,Manage People,Corporate Functions,KFE Nordic HTR Appl Support,Bronze,,1,,,1,,1,,250,Medium,,,N/A,Calculated from avg Bronze apps in region
+EU-1447,HAAKE RHEOWIN EU-1447,Europe,Europe,Greece,Material to Inventory,Integrated Supply Chain,KFE Greece Manufacturing Appl Support,Bronze,,1,,,1,,1,,1,Medium,,Desktop - Windows 7,Desktop - Windows 7,Calculated from avg Bronze apps in region
+EU-1448,FACTS BOOK EU-1448,Europe,Europe,,Material to Inventory,Integrated Supply Chain,,Bronze,,1,,,1,,1,,100,Medium,,Windows 2003 Server Enterprise,N/A,Calculated from avg Bronze apps in region
+EU-1526,TRAZA EU-1526,Europe,Europe,Spain,Material to Inventory,Integrated Supply Chain,KFE Iberia MTI Appl Support,Bronze,,1,,,1,,1,,17,Medium,,Windows 2003 Server,Oracle 10.1 or older 9.0.1.0.1,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1534,LIBRIX EU-1534,Europe,Europe,,Material to Inventory,Integrated Supply Chain,,Bronze,,1,,,1,,1,,500,Medium,,Windows 2003 Server Enterprise,N/A,Calculated from avg Bronze apps in region
+EU-1543,E-PURSE EU-1543,Europe,Europe,Greece,Manage People,Corporate Functions,KFE Greece HTR Appl Support,Bronze,,1,,,1,,1,,4,Medium,,Windows 2003 Standard R2,N/A,Calculated from avg Bronze apps in region
+EU-1587,FORMATIONS HABILITATIONS EU-1587,Europe,Europe,France,Manage People,Corporate Functions,KFE France HTR Appl Support,Bronze,,1,,,1,,1,,7,Medium,,Windows Svr 2008 R2 Enterprise,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1615,MASCHINENDATENBANK EU-1615,Europe,Europe,Germany,Sell to Customer,Front Office,KFE Germany Appl Support (Infosys),Bronze,,1,,,1,,1,,5,Medium,,Windows Svr 2003 Standard,SQL Server 2003,Calculated from avg Bronze apps in region
+EU-1715,X-ACT/P-ACT EU-1715,Europe,Europe,"Netherlands, Belgium",Material to Inventory,Integrated Supply Chain,KFE Benelux MTI Appl Support,Bronze,,1,,,1,,1,,50,Medium,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1716,CHIMED EU-1716,Europe,Europe,France,Manage People,Corporate Functions,KFE France HTR Appl Support,Bronze,,1,,,1,,1,,5,Medium,,Microsoft Windows Server 2003  Enterprise Edition,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1730,COSWIN EU-1730,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Bronze,,1,,,1,,1,,200,Medium,,Microsoft Windows 2000  Server,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1734,OCS-VMI EU-1734,Europe,Europe,France,Plan to Cash,Integrated Supply Chain,KFE France PTC Supply Chain Appl Support,Silver,,1,,,1,,1,,15,Medium,,Microsoft Windows Server 2008  Enterprise Edition,SQL 2005,Based on Remedy 3 month data
+EU-1741,ACT EU-1741,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France Quality and R&D Appl Support,Bronze,,1,,,1,,1,,150,Medium,,Microsoft Windows Server 2003  Enterprise Edition,IBM Lotus Notes 6,Calculated from avg Bronze apps in region
+EU-1767,SPACEMAN EU-1767,Europe,Europe,France,Sell to Customer,Front Office,KFE France STC Sales Appl Support,Silver,,1,,,1,,1,,300,Medium,,"Microsoft Windows 2000, Server",SQL 2005,Based on Remedy 3 month data
+EU-1800,SIMATIC IT UPPLANDS VAESBY EU-1800,Europe,Europe,Sweden,Material to Inventory,Integrated Supply Chain,KFE Nordic Manufacturing Appl Support,Silver,,1,,,1,,1,,10,Medium,,Windows Svr 2003 R2 Standard,N/A,Tickets logged directly with Siemens on portal.  
+EU-1811,MYSGS EU-1811,Europe,Europe,"Netherlands, Belgium",Product Lifecycle Management,Integrated Supply Chain,,Bronze,,1,,,1,,1,,200,Medium,,,N/A,Calculated from avg Bronze apps in region
+EU-2090,CAPE PACK EU-2090,Europe,Europe,"Ireland, United Kingdom",Product Lifecycle Management,Integrated Supply Chain,KFE UK Ireland Manufacturing Appl Support,Bronze,,1,,,1,,1,,50,Medium,,Windows Svr 2003 R2 Standard,N/A,Based on local knowledge due to not being recorded in remedy
+EU-2103,CPA/HYPERMARK EXTRACT UTILITY EU-2103,Europe,Europe,,Corporate Services,Corporate Functions,,Bronze,,1,,,1,,1,,50,Medium,,,N/A,Calculated from avg Bronze apps in region
+EU-2105,HYPERMARK EU-2105,Europe,Europe,,Corporate Services,Corporate Functions,,Bronze,,1,,,1,,1,,50,Medium,,Windows 2003 Standard,N/A,Calculated from avg Bronze apps in region
+EU-2106,S404 COMPLIANCE (AUDITS) EU-2106,Europe,Europe,,Record to Report,Corporate Functions,KFE UK Ireland HTR Appl Support,Bronze,,1,,,1,,1,,300,Medium,,,N/A,Calculated from avg Bronze apps in region
+EU-2118,AVANTIS EU-2118,Europe,Europe,Greece,Source to Pay,Integrated Supply Chain,,Bronze,,1,,,1,,1,,1,Medium,,AS/400,OS/400,Calculated from avg Bronze apps in region
+EU-2158,BLUE EU-2158,Europe,Europe,,Product Lifecycle Management,Integrated Supply Chain,,Bronze,,1,,,1,,1,,1000,Medium,,,N/A,Calculated from avg Bronze apps in region
+EU-2198,IBACKS EU-2198,Europe,Europe,"Ireland, United Kingdom",Manage People,Corporate Functions,KFE UK Crediton APO SAP,Bronze,,1,,,1,,1,,1,Medium,,Windows 2000 Server,Microsoft SQL Server 20008.00.760,Calculated from avg Bronze apps in region
+EU-2226,Q-LIMIT (DOC. 9000) EU-2226,Europe,Europe,Spain,Material to Inventory,Integrated Supply Chain,KFE Iberia MTI Appl Support,Bronze,,1,,,1,,1,,50,Medium,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2290,KRAFT MICROSITE / UK PEN MICROSITE (EXT) EU-2290,Europe,Europe,"Ireland, United Kingdom",Corporate Services,Corporate Functions,,Bronze,,1,,,1,,1,,500,Medium,,,N/A,Calculated from avg Bronze apps in region
+EU-2672,COMINFO - PASSPORT EU-2672,Europe,Europe,Czech Republic,Manage People,Corporate Functions,CEEMA Czech & Slovak Applications,Bronze,,1,,,1,,1,,150,Medium,,,N/A,Calculated from avg Bronze apps in region
+EU-2675,NUGGETSW EU-2675,Europe,Europe,Czech Republic,Manage People,Corporate Functions,CEEMA Czech & Slovak Applications,Bronze,,1,,,1,,1,,200,Medium,,,N/A,Calculated from avg Bronze apps in region
+EU-2701,ASSUSOFT EU-2701,Europe,Europe,Belgium,Manage People,Corporate Functions,KFE Benelux HTR Appl Support,Bronze,,1,,,1,,1,,20,Medium,,,N/A,Calculated from avg Bronze apps in region
+EU-2720,GABIER EU-2720,Europe,Europe,France,Plan to Cash,Integrated Supply Chain,KFE France PTC Supply Chain Appl Support,Silver,,1,,,1,,1,,15,Medium,,Microsoft Windows Server 2003  Enterprise Edition,N/A,Based on Remedy 3 month data
+EU-2734,THE WIRE EU-2734,Multi Region,"Europe, Asia Pacific",,Market to Consumer,Front Office,Global CCS Sharepoint 2010 Business Support,Bronze,,1,,,1,,1,,1000,Medium,,Sharepoint 2013 @ MS,Sharepoint 2013,Calculated from avg Bronze apps in region
+EU-2741,DIGIFORMS EU-2741,Europe,Europe,Slovakia,Source to Pay,Integrated Supply Chain,CEEMA Czech & Slovak Applications,Bronze,,1,,,1,,1,,500,Medium,,Windows Server 2013,"SQL Server 2012, C# .Net 2.0",Calculated from avg Bronze apps in region
+EU-2797,INTOUCH EU-2797,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France Plants Engineering Appl Support,Bronze,,1,,,1,,1,,1,Medium,,Microsoft Windows Server 2003  Standard Edition,N/A,Calculated from avg Bronze apps in region
+EU-2841,SIMATIC IT AND PRINTING SERVICES FRANCE EU-2841,Europe,Europe,France,Material to Inventory,Integrated Supply Chain,KFE France MTI Manufacturing Appl Support,Gold,,1,,,1,,1,,1,Medium,,Wintel server,N/A,Tickets logged directly with Siemens on portal.  
+EU-2859,FABER/WAM EU-2859,Europe,Europe,Italy,Corporate Services,Corporate Functions,KFE Italy PTC Supply Chain Appl Support,Bronze,,1,,,1,,1,,400,Medium,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2883,JWS EU-2883,Europe,Europe,Poland,Plan to Cash,Integrated Supply Chain,CEEMA Poland Applications,Silver,,1,,,1,,1,,10,Medium,,Desktop - Windows 7,Desktop - Windows 7,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2904,NexONTIME EU-2904,Europe,Europe,Hungary,Manage People,Corporate Functions,,Bronze,,1,,,1,,1,,250,Medium,,Windows W2K3 Ent R2 SP2,N/A,Calculated from avg Bronze apps in region
+EU-2941,SPC-Datalyzer EU-2941,Europe,Europe,Spain,Material to Inventory,Integrated Supply Chain,KFE Iberia MTI Appl Support,Bronze,,1,,,1,,1,,20,Medium,,Windows 2003 Enterprise R2,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2942,Sintact EU-2942,Europe,Europe,Romania,Corporate Services,Corporate Functions,CEEMA Romania Applications,Bronze,,1,,,1,,1,,20,Medium,,,N/A,Calculated from avg Bronze apps in region
+EU-2945,SAFIR EU-2945,Multi Region,"Europe, EEMEA","Nigeria, Turkey, United Arab Emirates, South Africa, Saudi Arabia, Egypt, Romania",Sell to Customer,Front Office,CEEMA Safir/Cubis,Bronze,,1,,,1,,1,,57,Medium,,MS Windows Server...,MS SQL Server...,Calculated from avg Bronze apps in region
+EU-2959,Interflex EU-2959,Europe,Europe,"Austria, Germany",Manage People,Corporate Functions,,Bronze,,1,,,1,,1,,30,Medium,,Windows Svr 2003 R2 Standard,N/A,Calculated from avg Bronze apps in region
+EU-3013,Overall Equipment Efficiency EU-3013,EEMEA,EEMEA,Bahrain,Material to Inventory,Integrated Supply Chain,CEEMAE-UAE Dubai Onsite HCL,Bronze,,1,,1,,,,0.25,42,Medium,,"WindowsServer 2008 K, OEE software from SIEMENS and client type Win 7.0",SQL server 2008,
+EU-3025,Crefoscore EU-3025,Europe,Europe,Germany,Record to Report,Corporate Functions,,Bronze,,1,,,1,,1,,6,Medium,,windows,,Calculated from avg Bronze apps in region
+EU-3026,Treasalyzer EU-3026,Europe,Europe,Germany,Record to Report,Corporate Functions,,Bronze,,1,,,1,,1,,11,Medium,,windows,,Calculated from avg Bronze apps in region
+EU-3037,KFZ-DB EU-3037,Europe,Europe,Germany,Corporate Services,Corporate Functions,,Bronze,,1,,,1,,1,,10,Medium,,windows,,Calculated from avg Bronze apps in region
+EU-3062,Employee Online Leave system EU-3062,EEMEA,EEMEA,"Botswana, Swaziland, South Africa",Manage People,Corporate Functions,EMEA South Africa Procurement,Silver,,1,,,1,,,,10,Medium,,Windows 2003,SQL 2005,
+EU-3073,Hipath Am Version 2 Billing Software EU-3073,EEMEA,EEMEA,Nigeria,Collaboration and Content Services,CTO,CEEMA Nigeria On-site,Bronze,,1,,,,1,,,6,Medium,,Windows Server 2003/DOS,SQL Server 2008 R2,
+EU-3092,MEU CF CGA Message Book EU-3092,Europe,Europe,,Corporate Services,Corporate Functions,,Bronze,,1,,,1,,1,,200,Medium,,,,Calculated from avg Bronze apps in region
+EU-3098,Siemens Line Monitoring System OEE/GE EU-3098,EEMEA,EEMEA,Bahrain,Material to Inventory,Integrated Supply Chain,CEEMAE-UAE Dubai Onsite HCL,Bronze,,1,,1,,,,0.25,42,Medium,,"WindowsServer 2008 K, OEE software from SIEMENS and client type Win 7.0",SQL server 2008,
+NA-1619,BRIGHT IDEA NA-1619,Multi Region,"Latin America, Europe, EEMEA, North America, Asia Pacific","Australia, Brazil, Mexico, France, Switzerland, China, Costa Rica, Indonesia, United Kingdom, Bolivia, Canada, Venezuela, United States, Spain, Belgium, Sweden, Germany",Collaboration and Content Services,CTO,NA PLM Bright Idea Innovation Appl Support,Bronze,,1,,,,,,,500,Medium,,,,
+NA-2011,GLOBAL CAPITAL TRACKING SYSTEM  NA-2011,Multi Region,"Asia Pacific, Europe, Latin America, EEMEA, North America",United States,Material to Inventory,Integrated Supply Chain,NA MTI SAP Manufacturing Appl Support,Bronze,,1,,,1,,,,200,Medium,,,,
+NA-2129,BrightIdea NA-2129,Multi Region,"Asia Pacific, EEMEA, Latin America, Europe, North America",,Collaboration and Content Services,CTO,,Bronze,,1,,,,,,,5000,Medium,,,,
+AP-348,EASY FORECASTER AP-348,Asia Pacific,Asia Pacific,India,Plan to Cash,Integrated Supply Chain,AP India On-site,Bronze,,2,,,1,1,,,1,Medium,,,,
+EU-1061,EMEA AT WAMAS  EU-1061,Europe,Europe,Austria,Plan to Cash,Integrated Supply Chain,KFE Cross-functional Appl Support,Gold,,2,,,2,,2,,90,Medium,,,,Calculated from Avg of Gold apps in region
+EU-1064,MFG/PRO  EU-1064,Europe,Europe,Bulgaria,Material to Inventory,Integrated Supply Chain,,Gold,,2,,,2,,2,,15,Medium,,,N/A,Calculated from Avg of Gold apps in region
+EU-1072,MFG/PRO  EU-1072,Europe,Europe,Romania,Material to Inventory,Integrated Supply Chain,,Gold,,2,,,2,,2,,195,Medium,,AIX,N/A,Calculated from Avg of Gold apps in region
+EU-1329,MILK PAYROLL (CODICEQ) EU-1329,Europe,Europe,Italy,Source to Pay,Integrated Supply Chain,KFE Italy RTR Finance Appl Support,Bronze,,2,,,2,,2,,5,Medium,,windows server 2003 r2,SQL 2005,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1400,SIRIO NUMERICHE EU-1400,Europe,Europe,Italy,Plan to Cash,Integrated Supply Chain,KFE Italy STC Sales Appl Support,Silver,,2,,,2,,2,,50,Medium,,Unix ,,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1408,STREAMSERVE EU-1408,Europe,Europe,Switzerland,Material to Inventory,Integrated Supply Chain,KFE Switzerland PTC Supply Chain Appl Support,Silver,,2,,,2,,2,,118,Medium,,Windows,N/A,Based on Remedy 3 month data
+EU-1425,LUSID GPA EU-1425,Europe,Europe,France,Plan to Cash,Integrated Supply Chain,KFE France PTC Supply Chain Appl Support,Silver,,2,,,2,,2,,20,Medium,,Microsoft Windows Server 2003  Enterprise Edition,Oracle 10.210.2.0.1,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1675,INFOMARGIN EU-1675,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Bronze,,2,,,2,,2,,15,Medium,,Windows 2003 Standard R2,SQL Server 9.00.5057.00,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1759,EXPERTEAM EU-1759,Europe,Europe,France,Sell to Customer,Front Office,KFE France STC Sales Appl Support,Silver,,2,,,2,,2,,200,Medium,,"Microsoft Windows 2000, Server",SQL 2005,Based on Remedy 3 month data
+EU-1762,PROMOBOX EU-1762,Europe,Europe,France,Sell to Customer,Front Office,KFE France STC Sales Appl Support,Silver,,2,,,2,,2,,200,Medium,,Microsoft Windows Server 2003  Enterprise Edition,SQL 2005,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2087,SHEFF T&A (DIRECTIONAL) EU-2087,Europe,Europe,"United Kingdom, Ireland",Manage People,Corporate Functions,KFE UK Ireland HTR Appl Support,Bronze,,2,,,2,,2,,1,Medium,,Windows 2012,SQL 2008,Based on local knowledge.  Will be moved to Kronos in 2016.
+EU-2696,HELICOPTER EU-2696,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Bronze,,2,,,2,,2,,50,Medium,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2787,NSKEP PP EU-2787,Europe,Europe,France,Plan to Cash,Integrated Supply Chain,KFE France PTC Supply Chain Appl Support,Silver,,2,,,2,,2,,10,Medium,,Microsoft Windows Server 2003  Standard Edition,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2888,TABELIS EU-2888,Europe,Europe,Lithuania,Manage People,Corporate Functions,CEEMA Lithuania On-site,Bronze,,2,,,2,,2,,30,Medium,,Windows Server 2008 R2 Standard,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2939,Gestione Telefonia EU-2939,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Gold,,2,,,2,,2,,800,Medium,,OS MS 2003,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-3066,SAGE 500 (Bank Payment) BIMO EU-3066,EEMEA,EEMEA,Morocco,Record to Report,Corporate Functions,CEEMA Morocco Service Desk,Silver,,2,,,1,1,,,2,Medium,moderate,Desktop - Windows 7,Desktop - Windows 7,
+EU-3107,OPAL Morocco EU-3107,EEMEA,EEMEA,Morocco,Record to Report,Corporate Functions,,Silver,,2,,,,2,,,5,Medium,easy,Windows Server 2008,MS SQL 2008,
+EU-3112,OPAL Russia EU-3112,EEMEA,EEMEA,Russian Federation,Record to Report,Corporate Functions,,Silver,,2,,,,2,,,5,Medium,,Microsoft Windows 20008,MS SQL 2008,
+EU-3118,Net2 (Paxton) EU-3118,Europe,Europe,"Ireland, United Kingdom",Manage People,Corporate Functions,,Gold,,2,,,2,,2,,150,Medium,,,,Calculated from Avg of Gold apps in region
+EU-3120,iRep EU-3120,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Bronze,,2,,,2,,2,,300,Medium,,,,Based on tickets asssigned to queue divided by no of apps in queue
+EU-3121,IC - GPS (Routard) EU-3121,Europe,Europe,Italy,Sell to Customer,Front Office,KFE Italy STC Sales Appl Support,Bronze,,2,,,2,,2,,100,Medium,,,,Based on tickets asssigned to queue divided by no of apps in queue
+NA-778,CAPE PACK - EUROPEAN NA-778,Europe,Europe,"Germany, France, Norway, United Kingdom",Product Lifecycle Management,Integrated Supply Chain,NA PLM Various Appl Support,Bronze,,2,,,2,,2,,400,Medium,,Windows Desktop V7,Not Applicable,Based on tickets asssigned to queue divided by no of apps in queue
+AP-021,DATASYSTEM AP-021,Asia Pacific,Asia Pacific,Taiwan,Sell to Customer,Front Office,AP Southeast Asia PTC Appl Support,Silver,,3,,,3,,,,97,Medium,,Windows 2003,SQL 2000 & SQL 2003,
+AP-461,MERANET AP-461,Multi Region,"Asia Pacific, EEMEA","India, Pakistan",Sell to Customer,Front Office,AP India On-site,Silver,,3,,,3,,,,1,Medium,,Windows 2003,"SQLServer 2012
+",
+AP-613,Time and attendance system - TMS AP-613,Multi Region,"Asia Pacific, EEMEA","Pakistan, India",Manage People,Corporate Functions,AP India On-site,Silver,,3,,,3,,,,3,Medium,,Desktop - Windows 7,Desktop - Windows 7,
+AP-700,STAC V3 AP-700,Asia Pacific,Asia Pacific,Australia,Manage People,,AP Australia Appl Support,Silver,,3,,,,3,,0.2,1,Medium,,"Windows Server 2003
+","SQL Database 2005
+",
+AP-728,ACNIELSEN ANSWERS DESKTOP 7.5.12 AP-728,Asia Pacific,Asia Pacific,"Indonesia, China, Hong Kong, New Zealand, India, Malaysia, Australia, Viet Nam, Singapore, Philippines, Thailand",Market to Consumer,,AP Australia Appl Support,Bronze,,3,,,,3,,,170,Medium,,n/a,,
+AP-741,Readsoft Interpret AP-741,Asia Pacific,Asia Pacific,"Philippines, Australia, Singapore",Source to Pay,Integrated Supply Chain,AP STP SAP Appl Support,Silver,,3,,,3,,,,50,Medium,,Readsoft v5.7,Oracle Version 11g R2,
+EU-1018,PALLET LABEL SYSTEM EU-1018,Europe,Europe,Slovakia,Material to Inventory,Integrated Supply Chain,CEEMA Czech & Slovak Applications,Silver,,3,,,3,,3,,18,Medium,,Windows 2003 Enterprise R2 SP2,N/A,Calculated from Avg of Silver apps in region
+EU-1118,KSDTFL EU-1118,Europe,Europe,"Sweden, Norway",Plan to Cash,Integrated Supply Chain,KFE Nordic PTC Supply Chain Appl Support,Silver,,3,,,3,,3,,10,Medium,,Windows 2003 Server,Oracle 10.2.0.3,Calculated from Avg of Silver apps in region
+EU-1218,CODING & LABELLING EU-1218,Europe,Europe,Italy,Material to Inventory,Integrated Supply Chain,KFE Italy Manufacturing Appl Support,Silver,,3,,,3,,3,,6,Medium,,Windows 2003 Standard,N/A,Calculated from Avg of Silver apps in region
+EU-1219,COMETE EU-1219,Europe,Europe,France,Sell to Customer,Front Office,KFE France BI Appl Support,Silver,,3,,,3,,3,,317,Medium,,AIX 5.02.3790,Oracle 10.2.0.1,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1267,FLEX EU-1267,Europe,Europe,"Sweden, Denmark",Manage People,Corporate Functions,KFE Nordic HTR Appl Support,Silver,,3,,,3,,3,,15,Medium,,Windows Svr 2003 R2 Standard,N/A,Calculated from Avg of Silver apps in region
+EU-1338,P&L CLIENT RETAIL & AFH EU-1338,Europe,Europe,France,Record to Report,Corporate Functions,KFE France BI Appl Support,Bronze,,3,,,3,,3,,20,Medium,,AIX 4.3.3,Oracle V9,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1432,BATCH PRO EU-1432,Europe,Europe,Greece,Material to Inventory,Integrated Supply Chain,KFE Greece Manufacturing Appl Support,Silver,,3,,,3,,3,,1,Medium,,Windows 2003 Server,N/A,Calculated from Avg of Silver apps in region
+EU-1433,HYPERION ESSBASE EU-1433,Europe,Europe,Greece,Record to Report,Corporate Functions,,Silver,,3,,,3,,3,,90,Medium,,Windows Svr 2003 R2 Standard,N/A,Calculated from Avg of Silver apps in region
+EU-1449,E:TIME EU-1449,Europe,Europe,Switzerland,Manage People,Corporate Functions,KFE Switzerland HTR Appl Support,Silver,,3,,,3,,3,,50,Medium,,Windows 2003 Standard R2,Oracle 10.2.0.3.0,Calculated from Avg of Silver apps in region
+EU-1453,SPS-CONSOLE EU-1453,Europe,Europe,Switzerland,Material to Inventory,Integrated Supply Chain,KFE Switzerland MTI Appl Support,Silver,,3,,,3,,3,,1,Medium,,Windows,N/A,Calculated from Avg of Silver apps in region
+EU-1671,AUTECO - ALBAPRO EU-1671,Europe,Europe,Italy,Material to Inventory,Integrated Supply Chain,KFE Italy Manufacturing Appl Support,Silver,,3,,,3,,3,,20,Medium,,,N/A,Calculated from Avg of Silver apps in region
+EU-1707,MICROSTRATEGY EU-1707,Europe,Europe,Netherlands,Business Intelligence,Enterprise Systems,,Silver,,3,,,3,,3,,200,Medium,,,N/A,Calculated from Avg of Silver apps in region
+EU-1757,LUCAS EU-1757,Europe,Europe,France,Sell to Customer,Front Office,KFE France STC Sales Appl Support,Silver,,3,,,3,,3,,50,Medium,,Microsoft Windows Server 2003  Enterprise Edition,IBM WAS DB2,Based on Remedy 3 month data
+EU-2605,STAR FOR TRADEMARKETING EU-2605,EEMEA,EEMEA,Russian Federation,Sell to Customer,Front Office,,Bronze,,3,,,3,,,1,20,Medium,,Windows Server 2008,MS SQL 2008,
+EU-2662,LEADSYS EU-2662,Europe,Europe,Hungary,Sell to Customer,Front Office,,Silver,,3,,,3,,3,,100,Medium,,N/A SAAS,N/A SAAS,Calculated from Avg of Silver apps in region
+EU-2689,IBM CONTENT MANAGER KFE-RUSSELSHEIM BASED EU-2689,Multi Region,"EEMEA, Europe",,Source to Pay,Integrated Supply Chain,,Silver,,3,,,3,,3,,100,Medium,,Desktop - Windows 7,Desktop - Windows 7,Calculated from Avg of Silver apps in region
+EU-2868,FAX2ORDER EU-2868,Multi Region,"EEMEA, Europe","United Kingdom, Switzerland, Denmark, Austria, Norway, Sweden, Italy, Germany, Greece, Portugal, Belgium, Finland, Ireland, France, Benin, Spain, Netherlands",Plan to Cash,Integrated Supply Chain,EMEA PTC SAP Appl Support,Silver,,3,,,3,,3,,200,Medium,,Windows Svr 2008 R2 Enterprise,N/A,Calculated from Avg of Silver apps in region
+EU-2919,ESTPREV EU-2919,Europe,Europe,France,Sell to Customer,Front Office,KFE France BI Appl Support,Silver,,3,,,3,,3,,50,Medium,,Microsoft Windows Server 2003  Enterprise Edition,Oracle V9,Based on Remedy 3 month data
+EU-2921,PROSID EU-2921,Europe,Europe,France,Sell to Customer,Front Office,KFE France BI Appl Support,Silver,,3,,,3,,3,,50,Medium,,Microsoft Windows Server 2003  Enterprise Edition,Oracle V9,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2922,PROHIST EU-2922,Europe,Europe,France,Sell to Customer,Front Office,KFE France BI Appl Support,Silver,,3,,,3,,3,,50,Medium,,Wintel server,Oracle V9,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2924,PROMO Retail EU-2924,Europe,Europe,France,Record to Report,Corporate Functions,KFE France BI Appl Support,Silver,,3,,,3,,3,,50,Medium,,Microsoft Windows Server 2003  Enterprise Edition,Oracle V9,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2925,TRADE DEALS (Retail & IC) EU-2925,Europe,Europe,France,Sell to Customer,Front Office,KFE France BI Appl Support,Silver,,3,,,3,,3,,50,Medium,,Microsoft Windows Server 2003  Enterprise Edition,Oracle V9,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2926,ESSBASE - OI/AG EU-2926,Europe,Europe,France,Record to Report,Corporate Functions,KFE France BI Appl Support,Silver,,3,,,3,,3,,50,Medium,,Microsoft Windows Server 2003  Enterprise Edition,Oracle V9,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2960,OASIS EU-2960,Multi Region,"Latin America, North America, Asia Pacific, EEMEA, Europe",,Plan to Cash,Integrated Supply Chain,,Silver,,3,,,3,,3,,70,Medium,,,,Calculated from Avg of Silver apps in region
+EU-2981,RHXXI (Glintt) EU-2981,Europe,Europe,Portugal,Manage People,Corporate Functions,,Silver,,3,,,3,,3,,100,Medium,,,,Calculated from Avg of Silver apps in region
+EU-2996,Sigma EU-2996,Europe,Europe,United Kingdom,Material to Inventory,Integrated Supply Chain,KFE UK Ireland RTR Finance Appl Support,Silver,,3,,,3,,3,,130,Medium,,,,Calculated from Avg of Silver apps in region
+EU-2997,Hanwell EU-2997,Europe,Europe,United Kingdom,Material to Inventory,Integrated Supply Chain,KFE UK Ireland RTR Finance Appl Support,Silver,,3,,,3,,3,,130,Medium,,Windows 2003 Standard,N/A,Calculated from Avg of Silver apps in region
+EU-2998,Formate EU-2998,Europe,Europe,United Kingdom,Material to Inventory,Integrated Supply Chain,KFE UK Ireland RTR Finance Appl Support,Silver,,3,,,3,,3,,100,Medium,,,,Calculated from Avg of Silver apps in region
+EU-3015,Company Archive EU-3015,Europe,Europe,Germany,Core Business Processes,Enterprise Systems,KFE Germany Appl Support (Infosys),Silver,,3,,,3,,3,,20,Medium,,SQL-DB,,Calculated from Avg of Silver apps in region
+EU-3047,LOGIO EU-3047,Europe,Europe,Czech Republic,Sell to Customer,Front Office,CEEMA Czech & Slovak Applications,Silver,,3,,,3,,3,,30,Medium,,,N/A,Calculated from Avg of Silver apps in region
+EU-3048,SFA Jachym EU-3048,Europe,Europe,Czech Republic,Sell to Customer,Front Office,CEEMA Czech & Slovak Applications,Silver,,3,,,3,,3,,180,Medium,,,N/A,Calculated from Avg of Silver apps in region
+EU-3067,Cape Pack 2.11 BIMO EU-3067,EEMEA,EEMEA,Morocco,Product Lifecycle Management,Integrated Supply Chain,CEEMA Morocco Service Desk,Silver,,3,,,1,2,,,3,Medium,Easy,Desktop - Windows 7,Desktop - Windows 7,
+EU-3094,Dynamic CRM 2013 EU-3094,EEMEA,EEMEA,South Africa,Sell to Customer,Front Office,CEEMA South Africa On-Site,Silver,,3,,1,2,,,,25,Medium,,Windows 2012,SQL 2012,
+EU-3106,OPAL Lebanon EU-3106,EEMEA,EEMEA,Lebanon,Record to Report,Corporate Functions,,Silver,,3,,,,,,,5,Medium,,Windows Server 2008,MS SQL 2008,
+EU-3113,OPAL Ukraine/NM EU-3113,EEMEA,EEMEA,"Ukraine, Belarus, Georgia",Record to Report,Corporate Functions,,Silver,,3,,,3,,,3,5,Medium,,Windows Server 2008,MS SQL 2008,
+NA-761,EMMIS NA-761,Europe,Europe,"Austria, Spain, France, Greece, Sweden, Denmark, Finland, Netherlands, Italy, Switzerland, Ireland, Portugal, Norway, Germany, Belgium, United Kingdom",Source to Pay,Integrated Supply Chain,KFE STP EMMIS External Manufacturing Mgmt Info Appl Support,Silver,,3,,,3,,3,,361,Medium,,Desktop - Windows 7,Desktop - Windows 7,Based on Remedy 3 month data
+EU-1009,LABEL SYSTEM EU-1009,Europe,Europe,Poland,Material to Inventory,Integrated Supply Chain,CEEMA Poland On-site,Silver,,4,,,4,,4,,3,Medium,,Windows 2003 Enterprise R2 SP2,Microsoft SQL Server 20008.00.2039,Based on tickets asssigned to queue divided by no of apps in queue
+EU-1011,LEX EU-1011,Europe,Europe,Poland,Corporate Services,Corporate Functions,CEEMA Poland On-site,Bronze,,4,,,4,,4,,2,Medium,,Windows 2003 Enterprise R2 SP2,Microsoft SQL Server 200810.2.4000.0,Based on tickets asssigned to queue divided by no of apps in queue
+EU-2044,VIP PAYROLL EU-2044,EEMEA,EEMEA,"Swaziland, Botswana, South Africa, Kenya",Manage People,Corporate Functions,EMEA South Africa Procurement,Bronze,,4,1,,3,,,3,5,Medium,,Windows Server 2003,SQL  2003 ( Currently being upgraded),
+EU-2196,COMPENDIA EU-2196,Europe,Europe,"Ireland, United Kingdom",Manage People,Corporate Functions,KFE UK Ireland HTR Appl Support,Bronze,,4,,,4,,4,,1,Medium,,,N/A,Based on local knowledge due to not being recorded in remedy
+EU-3042,Riscon EU-3042,Europe,Europe,Czech Republic,Material to Inventory,Integrated Supply Chain,CEEMA Czech On-site,Silver,,4,,,4,,4,,100,Medium,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-3050,DeltaX32 EU-3050,Europe,Europe,Czech Republic,Plan to Cash,Integrated Supply Chain,CEEMA Czech On-site,Silver,,4,,,4,,4,,100,Medium,,,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-3072,eDistributor EU-3072,EEMEA,EEMEA,South Africa,Plan to Cash,Integrated Supply Chain,EMEA South Africa Procurement,Bronze,,4,,2,2,,,,15,Medium,,Windows 2008,MS SQL 2008 R2 ,
+EU-959,ASIX EU-959,Europe,Europe,Poland,Material to Inventory,Integrated Supply Chain,CEEMA Poland On-site,Silver,,4,,,4,,4,,11,Medium,,Desktop - Windows 7,Desktop - Windows 7,Based on tickets asssigned to queue divided by no of apps in queue
+unkown,EDI Maintenance,Asia Pacific,Asia Pacific,Japan,,,,Gold,,4,0,0,4,0,0,0,0,Medium,,,,
+EU-1398,SIRIO AGEING EU-1398,Europe,Europe,Italy,Plan to Cash,Integrated Supply Chain,KFE Italy STC Sales Appl Support,Silver,,5,,,5,,5,,270,Medium,,,,Based on Remedy 3 month data
+EU-1903,JANTEK JTA 9.00 - CEEMA - HTR EU-1903,EEMEA,EEMEA,Nigeria,Manage People,Corporate Functions,CEEMA Nigeria On-site,Gold,,5,,,,5,,,50,Medium,,Windows Server 2003,SQL Server 2005,
+EU-2600,SQL: COMPLAINTS EU-2600,EEMEA,EEMEA,Russian Federation,Plan to Cash,Integrated Supply Chain,CEEMA Russia Service Desk,Bronze,,5,,5,,,,,10,Medium,,"Windows Server 2008R2 Enterprise 64 bit
+","MS SQL 2008 R2 Enterprise 64 bit
+",
+EU-2974,CONTROL EU-2974,EEMEA,EEMEA,United Arab Emirates,Plan to Cash,Integrated Supply Chain,CEEMAE-UAE Dubai Onsite HCL,Silver,,5,,2,3,,,0.5,8,Medium,,Windows Server 2000,MS SQL 2012,
+EU-3093,Time and Attendance System EU-3093,EEMEA,EEMEA,Morocco,Manage People,Corporate Functions,,Silver,,5,,1,2,2,,,6,Medium,moderate,Windows Server 2003,MS SQL 2008,
+EU-3104,OPAL Egypt EU-3104,EEMEA,EEMEA,Egypt,Record to Report,Corporate Functions,,Silver,,5,,,,,,,5,Medium,,Windows Server 2008 Enterprise,Misrosoft SQL 2008 Enterprise,
+EU-3108,OPAL Nigeria/Ghana EU-3108,EEMEA,EEMEA,"Ghana, Nigeria",Record to Report,Corporate Functions,,Silver,,5,,,5,,3,,5,Medium,,Windows Server 2008,MS SQL 2008,
+EU-3111,OPAL GCC/Saudi EU-3111,EEMEA,EEMEA,"United Arab Emirates, Saudi Arabia, Bahrain",Record to Report,Corporate Functions,CEEMAE-UAE Dubai Onsite HCL,Silver,,5,,,5,,3,,5,Medium,,Windows Server 2008,MS SQL 2008 Server,
+EU-888,PAIE GRH 500 EU-888,EEMEA,EEMEA,Morocco,Manage People,Corporate Functions,CEEMA Morocco Service Desk,Silver,,5,,1,2,3,,,5,Medium,Moderate,Windows Server 2003,MS SQL 2008,
+EU-3095,Deployment tool EU-3095,EEMEA,EEMEA,Russian Federation,Plan to Cash,Integrated Supply Chain,CEEMA Russia Service Desk,Bronze,,5.25,0.25,5,,,,,20,Medium,,Windows 2008 Server,Microsoft SQL 2008,
+AP-045,CHRIS AP-045,Asia Pacific,Asia Pacific,"New Zealand, Australia",Manage People,,AP Australia Appl Support,Silver,,6,,,,6,,0.2,60,Medium,,"Windows Server 2003 
+",,
+EU-3035,Trade Term Calculation EU-3035,Europe,Europe,United Kingdom,Sell to Customer,Front Office,KFE UK Ireland Cross-functional Appl Support,Silver,,6,,,6,,6,,300,Medium,,,,Based on Remedy 3 month data
+unkown,Non SAP Security Support,Asia Pacific,Asia Pacific,,,,,Gold,,6,0,0,4,2,0,0,0,Medium,,,,
+EU-3063,SQL DWH&OLAP cubes EU-3063,EEMEA,EEMEA,Russian Federation,Business Intelligence,Enterprise Systems,CEEMA Russia Service Desk,Silver,,7.5,1.5,2,4,,,,40,Medium,,"Windows Server 2008R2 Enterprise 64 bit
+","MS SQL 2008 R2 Enterprise 64 bit
+",
+EU-1847,TRENDES - CEEMA - HTR EU-1847,EEMEA,EEMEA,"Lebanon, Egypt",Manage People,Corporate Functions,CEEMA Egypt Applications,Bronze,,8,,,,,,,6,Medium,,Windows Server 2008,MS SQL 2005,
+EU-1424,VMI MANUGISTICS EU-1424,Europe,Europe,"Italy, France, Belgium, Switzerland",Plan to Cash,Integrated Supply Chain,EMEA PTC Manugistics Product Supply,Silver,,9,,,9,,6,3,20,Medium,,AIX 7.1,Oracle 9.2.06,Based on Remedy 3 month data
+EU-1685,Labware LIMS EU-1685,Multi Region,"North America, Europe","France, Germany, Canada, Italy, United States, United Kingdom",Product Lifecycle Management,Integrated Supply Chain,KFE Germany PLM LIMS Laboratory Information Appl Support,Bronze,,10,,,10,,10,,300,Medium,,Windows Svr 2003 R2 Standard,Microsoft SQL Server 2005 9.00.5057.00,Need to confirm numbers with RSSL team who currrently support app (tickets raised would go to general queue not LIMS specific)
+EU-2692,POINT.X APPLICATION EU-2692,Multi Region,"EEMEA, Europe","Czech Republic, Poland, Ukraine, Slovakia, Hungary, Russian Federation, Swaziland, Morocco, Nigeria, Lithuania, Ghana, Turkey",Material to Inventory,Integrated Supply Chain,,Gold,,10,,1,9,,10,,400,Medium,,Windows Svr 2008 R2 Enterprise,SQL Server 2008,Based on local knowledge but need to check with EEMA team
+EU-2861,CALYPSO EU-2861,Europe,Europe,Germany,Sell to Customer,Front Office,EMEA STC Calypso Sybase Appl Support,Silver,,10,,,10,,10,,205,Medium,,Windows 2008 Standard R2 x64,N/A,Based on tickets asssigned to queue divided by no of apps in queue
+EU-3002,UNIS EU-3002,EEMEA,EEMEA,Egypt,Manage People,Corporate Functions,CEEMA Egypt Applications,Gold,,10,,,,,,,4,Medium,,"Windows 2008, framework.net4",MS SQL 2008,
+EU-863,BLICK EU-863,EEMEA,EEMEA,South Africa,Manage People,Corporate Functions,EMEA South Africa Procurement,Silver,,10,10,,,,,4,50,Medium,,Windows 2000 ( Currently undergoing Upgrade),SQL 2005 (Currently Undergoing Upgrade),
+AP-756,E-Order AP-756,Asia Pacific,Asia Pacific,"Taiwan, China, Indonesia",Plan to Cash,Integrated Supply Chain,AP China Application Support,Gold,,12,2,,5,5,20,2,1130,Medium,,"Windows 2008 R2 Ent
+","SQl 2008 
+",
+EU-3091,SPEED EU-3091,EEMEA,EEMEA,Egypt,Plan to Cash,Integrated Supply Chain,CEEMA Egypt Applications,Bronze,,15,,,,,,,5,Medium,,"Microsoft Windows 2008, framework.net4",MS SQL 2008,
+EU-1807,PANORAMA 5.0.8 EU-1807,EEMEA,EEMEA,Turkey,Sell to Customer,Front Office,CEEMA Turkey Applications,Silver,,20,,2,2,,5,11,1065,Medium,,Windows server ENT 2008 R2 64 bit,SQL 2008 R2 64 bit,
+EU-1967,BAIKAL - CEEMA - STC EU-1967,EEMEA,EEMEA,Russian Federation,Sell to Customer,Front Office,CEEMA Russia Service Desk,Bronze,,20,1,5,,14,,3,1,Medium,,Windows Server 2008,MS SQL 2008,
+EU-2973,HRMS HR NET EU-2973,EEMEA,EEMEA,United Arab Emirates,Manage People,Corporate Functions,CEEMAE-UAE Dubai Onsite HCL,Gold,,25,5,15,,5,,2,700,Medium,,Windows Server 2000,MS SQL 2008,
+EU-861,1C:PREDPRIATIE EU-861,EEMEA,EEMEA,"Georgia, Belarus, Kazakhstan, Ukraine",Manage People,Corporate Functions,CEEMA Ukraine Kyiv NM On-site,Silver,,25,0.5,5.5,18,,,5,60,Medium,,Windows Server 2008,MS SQL 2008,
+EU-1561,"SCORE MANUGISTICS EMEA, AP & LA EU-1561",Multi Region,"Asia Pacific, EEMEA, Europe, Latin America, North America",,Plan to Cash,Integrated Supply Chain,EMEA PTC Manugistics Product Supply,Silver,,50,,2,48,,40,10,250,Medium,,AIX 5.3,Oracle 9.2.0.6,Based on Remedy 3 month data
+EU-2571,BOSS KADROVIK EU-2571,EEMEA,EEMEA,Russian Federation,Manage People,Corporate Functions,CEEMA Russia Service Desk,Silver,,103,,,3,100,,15,150,Medium,,Windows 2008,MS SQL 2008,
+EU-3122,Routing Portal EU-3122,EEMEA,EEMEA,Russian Federation,Collaboration and Content Services,CTO,CEEMA Russia Service Desk,Bronze,,152,0.4,,0.8,152,,5,1000,Medium,,,,
+AP-740,Readsoft Verify AP-740,Asia Pacific,Asia Pacific,"Singapore, Philippines, Australia",Source to Pay,,AP STP SAP Appl Support,Silver,,0,,,,,,,50,Medium,,ReadSoft Version 5.7 -Latest Release,Oracle Version 11g R2,
+AP-778,SFA AP-778,Asia Pacific,Asia Pacific,China,Sell to Customer,,AP China Application Support,Gold,,0,,,,,,,4400,Medium,,Windows 2008 R2 Ent,SQl 2008 ,
