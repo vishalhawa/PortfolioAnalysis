@@ -3,7 +3,7 @@ require(graphics)
 
 # ------------------------------------------------incidents ------------------------------------
 
-incidentsdf = read.csv("C:\\Users\\vhawa\\Dropbox\\Projects\\RCode\\ticketAnalysis\\incidents.csv")
+incidentsdf = read.csv("C:\\Users\\vhawa\\Dropbox\\Projects\\RCode\\PortfolioAnalysis\\incidents.csv")
 
 incidentsdf$Incident.Reported.Date.Time = strptime(incidentsdf$Incident.Reported.Date.Time , format="%m/%d/%y %I:%M %p")
 

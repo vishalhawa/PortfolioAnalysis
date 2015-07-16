@@ -1,0 +1,294 @@
+Application ID,Vertical ,Regions,Name of Application,Application Description,Users,Application Support Portfolio,Platform,Application Development Technology,Database Technology & Version,Application Support Type ( Support + Enhancements less than 160 hours),Incidents SRs,Version,Lifecycle Phase,Instances,Age ,approx. number of SR per month,approx. number of Incident per month,Number of non production environment
+RB-AME001,Global,High,ICE (Global Financial Reporting and Data Warehouse),ICE is a management reporting tool for RB which is build using IBM Datastage and IBM Cognos and is widely used in RB. ,3000,Gold,Custom,"IBM Datastage, IBM Cognos, .NET",DB2 10.1,Internal/Vendor,311,IBM Datastage 8.7 and IBM Cognos 10.1,Sustain,1,8,153,158,2
+RB-AME002,Global,High,HFM (Financial Consolidation),HFM is used for Statutory reporting in RB. It has a module called - DRM to maintain the hierarchies and global data standards in RB. DRM is used by Support team for development purposes only.,800,Gold,Custom,Hyperion,SQL Server 2008,Internal/Vendor,70,HFM ,Sustain,1,7,50,20,3
+RB-AME003,Global,High,FIRE (SAP B/W),FIRE is a management reporting tool which has been implemented on Buy Sell model and has been built on SAP BW and SAP BO. It is been rolled out and implemented in 7 countries,60,Gold,Custom,"SAP BW, SAP BO",SAP HANA,Internal/Vendor,42,SAP BW 7.3 and SAP BO 4.0,Sustain,1,1,6,36,3
+RB-AME004,Global,High,Documentum (Regulatory Dossier Management),It stores all the Regulatory documents which gets published to the various Regulatory Authorities.,1000,Silver,Cloud,JAVA,Oracle 11g,Internal / Vendor - The application is supported by a combination of internal and Vendor teams,25,Release 6.7,Sustain,1,8,20,5,2
+RB-AME005,Global,High,Insight Publisher (Regulatory submissions to eCTD format),"Web-Based Publishing Tool accessed via Citrix. It allows to compile, publish, and submit product dossiers for RB products for license submissions and other legal requirements",,Silver,Cloud,Liquent,Oracle 11g,Internal / Vendor - The application is supported by a combination of internal and Vendor teams,7,Release 5.0,Sustain,1,,4,3,2
+RB-AME006,Global,High,GRAIS (Regulatory affairs database),It stores the regulatory norms of different countries and also the product registration and regulatory details.,473,Silver,Custom,Lotus Notes,Lotus Notes 8.0.1,Internal/Vendor,32,2,Sunset,1,3,30,2,2
+RB-AME007,Global,High,IDM (Integrated Design Management - Artwork Repository),"IDM is a global, web based system, to manage Design, Artwork and Repro. It helps in improving quality consistency and gaining speed to market. IDM supports our brand launches worldwide to enable us to get to market smarter, quicker and better.
+",1300,Bronze,Cloud,SBS,NA,Internal / Vendor,205,6,Sustain,1,,170,35,2
+RB-AME008,Global,High,SQUEEZE Reporting,Squeeze application contains the Raw Materials and the cost of it from the different RB suppliers on a global basis.,73,Silver,Custom,.NET,SQL,Internal / Vendor,4,3,Sunset,1,5,4,0,1
+RB-AME009,Global,High,TDS  (Technical Documentation System),"TDS is a R&D and Supply application, where all the R&D documentations for all the product is being kept. Automates and accelerates the business processes associated with technical product document creation, approval and dissemination and provides a standard process to document structure and content. Currently TDS is used for master data management",4900,Gold,Custom,IBM Lotus Notes,IBM Lotus Notes,Internal / Vendor,510,9.1,Sustain,1,,460,50,2
+RB-AME010,Global,High,Trackwise (Change Control for Factories),The Trackwise application delivers a global end to end change control process for RB. This application aims at getting the changes right first time and go to market as fast as possible while meeting the regulatory requirements of the product and market.,3950,Gold,Cloud,Sparta Systems,SQL Server 2005,Internal / Vendor,307,8.7.4,Sustain,1,,302,5,4
+RB-AME011,Global,High,Lotus Notes Applications,"Holds multiple applications in one place. Total 42 Active Lotus Notes Based applications out of which 30 Read Only applications. Maximum applications are being used by R&D, Regulatory and Marketing team. These are other databases other than TDS.",950,Gold,Custom,IBM Lotus Notes,IBM Lotus Notes,Internal / Vendor,10,Multiple,Sustain,1,,10,0,2
+RB-AME012,Global,High,BUZZ,Buzz is SharePoint repository for team collaboration and content sharing,22000,Silver,Cloud,SharePoint,SQL Server 2008,RB/Vendor (Manage Service),70,SharePoint 2010,Sustain,1,,47,23,1
+RB-AME013,Global,High,MyRB,"HRMS solution for the HR functionalities like appraisal, talent management Joiner/ leaver/ transfer etc.",28000,Silver,ERP,PeopleSoft,SQL server 2008 R2,Internal/ Vendor,325,HRMS 9.2,Sustain,1,4,175,150,5
+RB-AME014,Global,High,MyDP (My Development Passport),Competency development solution globally and learning management system for sales function only.,24000,Silver,Custom,.Net,SQL server 2012,Internal/ Vendor,170,NA,Sustain,1,2,155,15,1
+RB-AME015,Global,High,MyLearning,Learning management tool for all the RB specific internal trainings,28000,Silver,Cloud,.Net,NA,Internal/ Vendor,127,NA,Sustain,1,1,82,45,0
+RB-AME016,Global,High,JDE,J.D. Edwards abbreviated as JDE is an Enterprise Resource Planning System implemented in RB,7200,Gold,ERP,"RPG/400, CL/400",DB2/400,Internal/Vendor,2200,A7.3 CUM 10,Sustain,20,14,1300,900,100
+RB-AME017,Global,High,BrandHub (MRM Solution),"BrandHub has been designed for global to support and to host all Marketing assets and collateral relating to both Power brands and local brands. In addition the application will provide the marketing teams with a production tool where creative projects can be managed including the review and approval of all marketing content in an electronic manner. 
+",0,Bronze,Cloud,Terradata,NA,Internal / Vendor,75,8.8.29,Develop,1,,75,0,1
+RB-AME018,Global,High,OneCMS,Content management System for RB websites ,,Silver,Custom,.Net,SQL Server,Vendor,0,,,,,,,
+RB-AME019,Global,High,SAP SCM (SNP),"Distribution planning application
+ used to plan the target inventory in a warehouse at a given point of time to ensure no OOS or over stock situation. Supply Network Planning (SNP)  provides a method for network planning integrated between distribution and production planning",953,Gold,Cloud,SAP,DB2 v9.7 ,Internal/vendor,275,SCM 7.0,Develop,1,3,125,150,2
+RB-AME020,Global,High,SAP S&OP,"S&OP Hana is a cloud based solution
+ used for sales and operation planning in RB. This  solution enables collaborating inputs on supply ,demand, marketing ,sales and finance to ensure the financial plan is met",100,Gold,Cloud,SAP,,internal/vendor,63,IBP 4.0,Develop,1,0.5,43,20,
+RB-AME209,Global,High,SAP BASIS,SAP BASIS Service for maintaining the environment,,Gold,ERP,,,,0,,,,,0,0,
+RB-AME021,Global,High,Empower (Chromatography Data system),"Empower is a Chromatography Data System (CDS) package for advanced data acquisition, management, processing, reporting and distribution. Chromatography is the science of separating mixtures to determine the identity and concentration of molecules. The results are displayed graphically, with peaks representing higher concentrations. ",170,Bronze,Cloud,"Waters, UK",Oracle 10g,Internal / Vendor,11,Release 3,Sustain,1,,9,2,1
+RB-AME022,Global,High,E-Trace (Adverse event reporting),"The ETrace software is a comprehensive database application designed to facilitate the collection, tracking, and management of clinical adverse events and to provide timely reporting of cases to regulatory agencies such as the FDA and EMEA. This application is critical to reporting adverse events in US and NEU.",30,Silver,Cloud,Oracle,Oracle 10g,Internal / Vendor,8,4.2,Sunset,1,,6,2,2
+RB-AME023,Global,High,ATRION (Product Safety Documentation),"The Atrion application minimizes the risk of Global non-compliance, develop products that can be manufactured and used safely, comply with regulatory requirements for multiple product, safety and labelling in all major global jurisdictions, create and distribute consistent product safety documentation across all regions.",27,Bronze,Cloud,"HIS, UK",SQL Server 2005,Internal / Vendor,1,4.3.3,Sustain,1,,1,0,1
+RB-AME025,Global,High,Daily Sales,It is a Sales Reporting which fetches the sales data from Jde and is used by the sales team for the sales reporting. This application interfaces with JDE and uses SQL server 2000 for the processing. The reporting tool is procalrity,1108,Silver,Custom,Microsoft Business Suite (ProClarity),SQL Server 2000,Vendor,107,-,Sustain,100,8,73,34,100
+RB-AME026,Global,High,ePlanning,Financial Planning tool built on Cognos,,Silver,,,,,0,,Sustain,,,,,
+RB-AME027,Global,High,CARE ,"CARE is a comprehensive consumer relations management software application that also includes a suite of programs and utilities which allow receipt, entry & follow-up of consumer feedback in a timely and effective manner. As a whole It is a call logging tool on any complain against RB products. The CARE system is part of the ""model company"" suite of global applications and is ""owned"" by Global QA. There are two versions of this application - version 5.0 & 8.0",450,Gold,Custom,.NET,SQL Server 2005,Internal / Vendor,93,8.2,Sunset,1,,30,63,1
+RB-AME028,Global,High,eTailing,"Etailing is the application which hold all the information for all the (RB)products. This information will then be forwarded to the vendors(Amazon,Walmart,Drugstore) to display the information of the product their site. ",0,Bronze,Custom,NA,NA,Internal / Vendor,30,NA,Develop,1,,30,0,0
+RB-AME029,Global,High,Accelerate,Siebel 8 & OBIEE implementation used to manage customer planning and Instore operations in countries with high modern trade,2000,Gold,Cloud,Oracle,DB2 9.7,Internal / Vendor,667,Siebel 8.1.1.11 FP4 & OBIEE 11.1.1.7.150120,Sustain,1,5,460,207,3
+RB-AME030,Global,High,IMS,System capturing secondary sales and distributor stock levels on a periodical basis and to provide management and functional reporting based on this information.,370,Gold,Custom,.Net,MS SQL 2005,Vendor,15,N/A,Sustain,1,11,10,5,2
+RB-AME031,Global,High,ProjectOne (RBSM),RBSM is a web-based product that enables users to perform all the requisitions related to Non Production and Marketing Spends.,1300,Silver,Custom,.Net,MS SQL 2005,Vendor,30,N/A,Sustain,1,5,15,15,2
+RB-AME032,Global,High,ProjectOne (TSM),"TSM is a web-based product that is designed to manage trade budgets, definition of promotion plan, governance and reporting of trade spending",465,Gold,Custom,.Net,MS SQL 2005,Vendor,30,N/A,Sustain,1,5,15,15,2
+RB-AME033,Global,High,SEED,Seed is a custom solution for Distributor management and Sales Force Automation. This also includes the solution from ZOOM.,2000,Gold,Custom,.Net,MS SQL 2005,Internal / Vendor,3500,N/A,Develop,1,1,500,3000,1
+RB-AME034,Global,High,OAS,Online Approval System,7900,Bronze,Custom,Classic ASP.NET,SQL Server,Internal/Vendor,104,NA,Sunset,1,10,102,2,1
+RB-AME035,Global,High,Manugistics,"Demand planning application. Used in forecasting the  demand for  RB commercials across 10 instances in Europe (8), India and NAC.",180,Gold,Cloud,JDA,Oracle ,,35,7.2.2,Sustain,9,7,15,20,
+RB-AME038,Global,High,Masterplan,,,Silver,,,,,0,,,,,,,
+RB-AME039,Global,High,DC-Link,DC link is a scanning and labelling system integrated with JDE to manage inventory movements and control.,500,Gold,Cloud,NA,SQL Server,Internal ( 99 % ),0,"Version 6-8, depending upon factory",Maintain,,12,,,
+RB-AME040,Global,High,KRONOS (Time and Attendance),This is the time and attendance system,,Gold,,,,,0,,,,,,,
+RB-AME041,Global,High,Project One (E-Expense),E-expense system is a web based Enterprise Expense Management System ,5417,Silver,Custom,.Net,MS SQL 2005,Vendor,30,N/A,Sustain,1,5,15,15,2
+RB-AME042,Global,High,Project One (E-Travel),E-Travel is a web based system to mange internal travel requests and approvals,1000,Silver,Custom,.Net,MS SQL 2005,Vendor,30,N/A,Sustain,1,5,15,15,2
+RB-AME043,Global,High,Project One (E-Leave),,,Silver,,,,,0,,,,,,,
+RB-AME044,Global,High,CEGEDIM,"CEGEDIM is an application for sales representative that visit pharmacy and doctors. It is a  SAAS Application. It is used to drive vision store, 3D, contracting in pharmacy. SFA Tool on CEGEDIM platform. It has handhold tool - ipad. It integrates with JDE and SAP system ( integration is in progress)",2000,Gold,Cloud,Cegedim ,Oracle 10.x,Service Integration,0,,Develop,1,2,0,0,0
+RB-AME045,Global,High,GO BIG/SIR (BIRST Reporting),SIR application is been used for Sales reporting,,Gold,,,,,23,,,,,22,1,
+RB-AME046,Global,High,VMI (Influe),,,Silver,,,,,0,,,,,,,
+RB-AME047,Global,High,Numetrix,Numetrix is a finite scheduling tool integrated with JDE. Takes WO from JDE and provides a more accurate planning data,50,Bronze,ERP,PPSFT,Access DB,Internal,10,unsupported version,Sustain,4,15,0,10,0
+RB-AME048,Global,High,DMS (Dispensary Management System),Dispensary Management System is a weighing system used in warehouse for raw material before the start of production,500,Gold,Cloud,Vendor - CI Precision,MS SQL 2005,Internal /Vendor,10,5,Sustain,7,13,0,10,7
+RB-AME049,Global,High,MAXIMO (Maintenance Management),"Maximo is a maintenance system for asset management. It is used for scheduling preventative maintenance tasks and recording reactive maintenance, ordering spare parts.",200,Silver,Cloud,"Vendor - IBM, bought thru local integrator (UK- ECCS)",MS SQL 2005,Internal /Vendor,20,"UK - 7.1.x
+US - 6.x
+CEU- 4.x",Sustain,3,10,0,20,3
+RB-AME051,Global,High,Readsoft (A/P scanning tool),"Readsoft is a scanning and Invoice processing tool used in France, Poland, UK, Ireland  and Scandinavia. The application is supported by the vendor and integration to the application as well as administration of the server is managed by IS. This is integrated with JDE",1650,Silver,Cloud,COTS ,Vendor - Readsoft ,"Service Integration, administration of sever is managed by RB",50,5.7.14051,"Sustain - Poland.
+Sunset - Others",3,10,20,30,6
+RB-AME052,Global,High,@APPROVE (PO Approval System),,,Silver,,,,,0,,,,,,,
+RB-AME053,Global,High,Anaplan (SaaS),"Anaplan is a financial planning tool using SAAS model. The users of this application log ticket with the Analplan helpdesk and it is fixed by them. This is still is rollout phase. In future, the requirement will be to maintain the specific configurations for the product. At the moment, there is a manual integration with EDW.",450,Silver,Cloud,Cloud,Cloud,Service Integration,0,NA,Developing,1,9,0,0,NA
+RB-AME285,Global,High,Smart RB,,,Silver,,,,,0,,,,,,,
+RB-AME286,Global,High,SAP ECC 5 (IGK) - India,This is in use in India (IGK). ,150,Gold,ERP,,,Vendor,0,,,,,,,
+RB-AME287,Global,High,"SAP ECC5 (Redruth, UK)","Literally, Enterprise Core Component. This is the SAP module for the ERP system. ECC 5 is the older global template which is getting replaced by ECC6.",57,Gold,ERP,SAP,,Vendor & Internal (CC L4 & Footwear not by Vendor),1,ECC5,"Sunset byQ1, 2016",1,,0,1,D/Q/R x ??
+RB-AME024,Global,High,SAP ECC6 (Baddi - Archived),This is the old instance of SAP which is now decommissioned. Data has to be kept for a period of 7 years. No real support required.,10,Bronze,ERP,SAP,,Vendor & Internal (CC L4 & Footwear not by Vendor),1,ECC5,Archived,1,,0,1,D/Q/R x ??
+RB-AME288,Global,High,SAP ECC6 -Global Instance (TURBO),"Literally, Enterprise Core Component. This is the SAP replacement module for the ERP system. ECC6 global template is currently being rolled out to replace JDE and other ECC systems in place. ",557,Gold,ERP,SAP,,Vendor & L4 via CC,400,ECC6,Develop,1,,350,50,D/Q/R x ??
+RB-AME289,Global,High,SAP Enterprise Portal,"This is not really used at RB, however the Server is used for Adobe documents",,Gold,ERP,,,,0,,,,,,,
+RB-AME290,Global,High,SAP GRC,"SAP Governance Risk and Compliance. It has two modules - Access Control (User Risk analysis and Privileged Access management) , Process control (Automated control monitoring)",100,Gold,ERP,SAP,DB2  (Std SAP stack),Internal,0,GRC 10.0,Develop,1,13,0,0,2
+RB-AME291,Global,High,SAP MDM,Master Data Management is a tool comprising of a User Interface and data repository and is part of the SAP suite of modules,691,Gold,ERP,SAP,SAP MDM Database,Vendor & L4 via CC,50,MDM 7.1,Sustain,1,,35,15,D/Q/R x ??
+RB-AME292,Global,High,SAP Solution Manager,SAP Solution Manager is the standard platform for Application Lifecycle Management (ALM). It enables the central access to all required functions and central availability of all required information.,557,Gold,ERP,SAP,,Vendor,0,Solman 7.1,Sustain,2,,0,0,NA
+RB-AME299,Global,High,Occulus,"Reporting tool build in Cognos on Remedy for daily reports, Sends daily report to IS users",200,Gold,Custom,Cognos Reports,DB2,Internal/Vendor,5,10.1,Sustain,1,,5,0,2
+RB-AME300,Global,High,Redwood,"Redwood is the solution for process scheduling, automation, and process monitoring. It allows you to manage any SAP application powered by the SAP NetWeaver platform to improve operational efficiency, optimize resource utilization, and increase control over enterprise-wide processes. this is also used for some JDE systems",25,Gold,Cloud,COTS,uses SAP system at the backend,Internal,5,-,Develop,1,0.5,5,0,2
+RB-AME301,Global,High,ChangePoint,Changepoint is used in RB for Application Portfolio Management (APM) to detail and control the applications which are in service globally to support the day to day business requirements.,140,Bronze,Cloud,Compuware,,Internal / Vendor,1,12.01.000.550,Sustain,1,7,1,0,1
+RB-AME302,Global,High,IRB,Web based application for the approval of new Infrastructure requests,3000,Silver,Custom,.Net 4,SQL Server 2012,Internal,0,1,Sustain,1,2,0,0,1
+RB-AME303,Global,High,Concur,Concur is  SAAS application for travel expense management. All integration and partial configuration is managed by IS. Integrates with JDE and SAP.,3000,Bronze,Cloud,Concur,Cloud,Service Integration,15,Cloud,Sustain,1,5,10,5,Cloud
+RB-AME304,Global,High,IT2,"IT2 is a treasury management application, supported by RB and the vendor. Integrations are managed by RB",60,Bronze,Cloud,COTs,SQL Server,Service Integration,15,NA,Sustain,1,7,5,10,1
+RB-AME305,Global,High,SWIFTNET,Used in SAP Markets for payments,20,Bronze,Cloud,COTS,NA,Service Integration,15,NA,Sustain,1,3,5,10,1 (DR)
+RB-AME099,ANZ,Low,HSN (EDI for Pharmacy Ordering),EDI for Pharmacy Ordering,30,Silver,Cloud,"EDI, based on AS400",comms network,Internal / Vendor,10,,No,1,,,,
+RB-AME100,ANZ,Low,METS (METS Web Service),METS Web Services,30,Silver,Custom,dotNet,SQL 2008R2,Internal / Vendor,10,,No,1,,,,
+RB-AME101,ANZ,Low,RCDB (RCDB Web Service),RCDB Web Services,10,Silver,Custom,dotNet,SQL 2008R2,Internal / Vendor,1,,No,1,,,,
+RB-AME102,ANZ,Low,Transform (Print overlay tool),Print Overlay Tool,5,Silver,Custom,OCR,proprietary,Internal / Vendor,1,,No,1,,,,
+RB-AME191,ASEAN,Medium,SalesTools Thailand SFA Solution,,,Bronze,,,,,0,,,,,,,
+RB-AME192,ASEAN,Medium,Sales Mining System (SMS) on TM1,"IMS data reporting system based on PLANET sales history data on TM1 technology, ",70,Bronze,Cloud,TM1,TM1,Internal / Vendor,10,-,NO,1,,,,
+RB-AME193,ASEAN,Medium,Pentaho (IMS and EMS),IMS/EMS,,Bronze,Cloud,,,,0,,,,,,,
+RB-AME194,ASEAN,Medium,Japan EDI (Local tool supported by 3rd party),Local EDI Tools supported by Third party,,Bronze,,,,,0,,,,,,,
+RB-AME195,ASEAN,Medium,Sales Force (Japan),Sales force tool,,Bronze,Cloud,,,,0,,,,,,,
+RB-AME196,ASEAN,Medium,JAPAN TM1 (Finance and TI reporting),Finance and TI reporting,,Bronze,,,,,0,,,,,,,
+RB-AME197,ASEAN,Medium,TOPS PRO,Package Design,5,Bronze,Cloud,Vendor - Effect Makers,None,Service Integration,1,6.02,No,1,,,,
+RB-AME198,ASEAN,Medium,Newspage (DMS Malaysia),DMS,,Bronze,,,,,0,,,,,,,
+RB-AME199,ASEAN,Medium,IMS Cube,"IMS data - secondary sales, distributor stock",20,Bronze,Custom,SQL Server 2008,SQL Server 2008,Internal,2,,Yes-vendor selection in progress,1,,,,
+RB-AME104,CEU,Low,Main Mix dB (Dispensary Management),Manufacturing dispensary,1,Bronze,Custom,,,Vendor,4,,,,,,,
+RB-AME105,CEU,Low,Agility (Plant maintenance and spare parts),CMMS - Plant Maintenance & Spare Parts system,1,Bronze,Custom,,,Internal / Vendor,2,,,,,,,
+RB-AME106,CEU,Low,CEU - Hungary (Tatabanya) WMS,"It's a tool to manage the inventory in the warehouse. Locally developed Warehouse Management System used in Hungarian factory in Tatabanya to store raw&pack products and also finished goods. It is also used to produce SSCC labels, and some other tasks like issuing goods to production, receiving goods from production, etc. This is critical application for Tatabanya factory - functionality related to traceability for medical device production. It is maintained locally and supported by Vendor: BCS Hungary Kft",1,Bronze,Custom,,,Internal / Vendor,2,,,,,,,
+RB-AME107,CEU,Low,ATOSS (Time and Attendance),Time & Attendance System.,300,Bronze,Custom,Local Vendor,SQL 2012 R2,Vendor,5,9,No,1,,,,
+RB-AME108,CEU,Low,APACS (Access control and Time and Attendance),Integrated access control and Time and Attendance system,1,Bronze,Custom,,,Internal / Vendor,2,,,,,,,
+RB-AME109,CEU,Low,Leszek (Factory Transport Management System),Factory transport management system,1,Bronze,Custom,,,Internal / Vendor,2,,,,,,,
+RB-AME110,CEU,Low,Transporeon (Freight Manegemnt),Transport mgmt system,1,Bronze,Custom,,,Service Integration,0,,,,,,,
+RB-AME111,CEU,Low,NND integrum (ISO Document management system),"ISO documentation management system, non conformity reporting. - QM System",1,Bronze,Custom,,,Internal / Vendor,2,,,,,,,
+RB-AME112,CEU,Low,CEU - OPTIPromag Poland Nowy-Dwor Local WMS,Local WMS system,1,Bronze,Custom,,,Internal / Vendor,6,,,,,,,
+RB-AME113,CEU,Low,Emigo (Sales Force Automation Solution),Sales Force Automation solution,120,Bronze,Cloud,.Net,SQL server,Internal / Vendor,40,5,No,1,,,,
+RB-AME114,CEU,Low,Asseco Connector (Distributor Sellout and Inventory data),Distributor sell out & inventory data consolidation service,30,Bronze,Cloud,,Oracle,Vendor,0,0,No,,,,,
+RB-AME115,CEU,Low,Invoice Control,Invoice Approval System and Archiving,520,Bronze,Custom,Local Vendor,SQL 2000,Vendor,5,4/1/2028,No,1,,,,
+RB-AME055,WEU,Low,Markem (Labelling and Palletiser Control),Labelling / Palletiser control (Factory),,Bronze,,,,,0,,,,,,,
+RB-AME056,WEU,Low,AQ Manager GMAO (Plant Maintenance),Plant Maintenance,,Bronze,,,,,0,,,,,,,
+RB-AME057,WEU,Low,Labolims (Manuf) (Quality Management),Quality Management  (Factory),,Bronze,,,,,0,,,,,,,
+RB-AME058,WEU,Low,Abel (Fixed Assets),Fixed assets management,5,Bronze,Cloud,Vendor,,Service Integration,1,?,No,,,,,
+RB-AME059,WEU,Low,ETAFI (Tax Declaration),Tax declaration,5,Bronze,Cloud,Vendor,,Service Integration,1,?,No,,,,,
+RB-AME060,WEU,Low,Klee Sales (Sales Force Automation),Sales Force Automation solution,55,Bronze,Cloud,Vendor,Oracle,Vendor,1,?,Planned (Q1-16),1,,,,
+RB-AME061,WEU,Low,IAS (A/P Scanning solution),AP scanning solution with automated upload to JDE for PO and Non PO invoices,150,Bronze,Custom,Vendor,Sql Server 2000,Internal,10,?,No,1,,,,
+RB-AME062,WEU,Low,Optio (Invoice Generation and Printing),Invoice generation and printing system,5,Silver,Custom,Vendor,Sql Server 2000,Internal / Vendor,1,?,Planned (Q4-15),1,,,,
+RB-AME063,WEU,Low,Sql Server DTS,"various DTS\procedures for interfaces (Siebel, MGX,..), PO management (emails,…)",0,Silver,Custom,Sql server 2000,Sql server 2000,Internal,1,2000,No,1,,,,
+RB-AME064,WEU,Low,WEU Item Master (Item MDM tool),SKU setup management tool,80,Bronze,Custom,.Net,Sql Server 2005,Internal / Vendor,1,?,No,1,,,,
+RB-AME065,WEU,Low,Demand Sensing (Terra Technologies),Forecasting solution,10,Gold,Cloud,Vendor,,Vendor,1,?,No,1,,,,
+RB-AME066,WEU,Low,WEU Sales Reporting (Local Database and Reporting),Database and reports,20,Bronze,Custom,Access,Sql Server 2000,Internal,1,?,Planned (Q1-16),1,,,,
+RB-AME067,WEU,Low,Vincle SalesWare,Sales Force Automation solution,110,Silver,Custom,. NET,Sql Server,Internal / Vendor,10,?,Planned (2016),1,,,,
+RB-AME068,WEU,Low,WEU CSI (Customer Service CRM system),Customer Service CRM system ,10,Silver,Cloud,Web,Oracle,Vendor,1,?,Planned (2016),1,,,,
+RB-AME069,WEU,Low,WEU LMS (Logistics Management System),Logistic Management System,30,Gold,Custom,,,Internal / Vendor,10,?,No,1,,,,
+RB-AME070,WEU,Low,WEU WMS (Warehouse Management System),Warehouse Management System,30,Gold,Custom,,,Vendor,1,?,No,1,,,,
+RB-AME071,WEU,Low,Eyebook (Instore picture taking mobile app and reporting),Instore Picture taking Mobile App + web reporting platform,100,Bronze,Custom,Web,Sql Server 2005,Internal / Vendor,10,?,Planned(Q4-15),1,,,,
+RB-AME089,SEU,Low,Click (Remote Order Entry),Remote order Entry,140,Silver,Custom,Client-Server,SQL 2008,Internal / Vendor,15,15.04,NO,1,,,,
+RB-AME090,SEU,Low,CREDICA (Claim Management System),Claim Management System,14,Bronze,Cloud,Client-Server,Oracle 11g,Internal / Vendor,2,5.3,NO,1,,,,
+RB-AME091,SEU,Low,ENVO (Electronic Invoice Archiving),Electronic Invoice Archiving,2,Silver,Cloud,Client-Server,SQL 2008,Vendor,0,1,NO,2,,,,
+RB-AME092,SEU,Low,EWR ,CRP System,7,Silver,Cloud,NA,NA,Internal / Vendor,1,,NO,1,,,,
+RB-AME093,SEU,Low,Hermes (Healthcare Remote Order Entry),Healthcare Remote Order Entry,37,Bronze,Cloud,Client-Server,SQL 2008,Vendor,2,,NO,1,,,,
+RB-AME094,SEU,Low,Intrastat (Intrastat declaration),Intrastat Declaration,2,Bronze,Custom,AS400,DB2/400,Internal / Vendor,1,NA,YES,1,,,,
+RB-AME095,SEU,Low,Nota Spese (Expense Management),Expenses System,631,Bronze,Custom,Client-Server,SQL 2008,Internal / Vendor,20,NA,YES,1,,,,
+RB-AME096,SEU,Low,Piani Tecnici (NPD),NPD repository and data collection,10,Silver,Custom,Local Vendor,Oracle,Vendor,5,1,No,1,5,,,
+RB-AME097,SEU,Low,PITECO 2000 (Treasury System),Tresury System,2,Bronze,Cloud,Client-Server,SQL 2008,Internal / Vendor,2,2000,NO,1,,,,
+RB-AME098,SEU,Low,SEU WMS,WMS Management System,75,Gold,Custom,Alpha Digital,,Internal / Vendor,15,,NO,2,,,,
+RB-AME054,RCIS,Low,Sales Works,Sales Force Automation,400,Silver,Cloud,NA,NA,Internal / Vendor,30,,No,1,,,,
+RB-AME116,NEU,Low,BMS (Customer planning for Nordics),"Customer Planning application for NORDICS (similar to Accelerate), Potentially to be replaced with Accelerate.  Does not integrate with any app, extracts uploaded into the application.",30,Bronze,Cloud,Vendor,SQL Server 2008 ( Hosted in Hull),Service Integration,0,11,Yes- 2016 (Accelerate),1,,,,
+RB-AME117,NEU,Low,Bottom Line (Document creation - Invoice print overlays),This is a Invoice Printing Solution for JDE hence there aren't any release users for this application,0,Bronze,Cloud,Vendor,None,Internal / Vendor,5,NA,-,1,,,,
+RB-AME118,NEU,Low,FIZZ (Sensory Analysis database),"This application is used by the Aircare and Hygiene sensory groups based in Hull to create, complete and store product testing surveys. The application is used on tablet PCs by testers while they are performing product testing within R&D.",30,Bronze,Cloud,Vendor,Paragon,Vendor,1,2.47B,No,2,7,,,
+RB-AME119,NEU,Low,Webseries (Transmit Supplier and pension payments to BACS),Transmit Supplier and pension payments to BACS,,Bronze,,,,Service Integration,0,,,,,,,
+RB-AME120,NEU,Low,ARCOS (Pharma in-store tool for 3D + ROE),Pharmacy instore appliction. This is the  Irish Equivalent of Cegedim. The calls goes to ARCOS Helpdesk.,10,Bronze,Cloud,COTS - Strata IT,SQL Server 2010 ( Hosted in Dublin),Service Integration ,0,-,Yes - Most likely move to CEGEDIM,1,,,,
+RB-AME121,NEU,Low,Credica (Integrated cash collection and query management),Dispute Management System for customer claims used in UK (25 users) and Italy ( 25 users).Went live in 2015,50,Bronze,Cloud,COTS - Credica,Oracle 11,Internal / Vendor,5,5.12,NO,1,,,,
+RB-AME123,NEU,Low,Activa (OEE Reporting),"Used in HULL, equipment Effectiveness, ACCESS database for performance on lines.",30,Bronze,Custom,Access Database,Access Database,Internal,5,-,NO,1,,,,
+RB-AME124,NEU,Low,CPI (Patents/Trademarks),"This is used for managing the legal documents, have workflows, not integrated with any app.",5,Bronze,Cloud,COTS,"Yes, SQL Sever",Internal,5,-,No,1,,,,
+RB-AME125,NEU,Low,Open Options (Crown) (Time and Attendance system),Time and Attendance system used in Nottingham,1200,Bronze,Cloud,COTS - Crown Computing Ltd.,SQL Server 2005,Internal / Vendor,5,10,NO,6,,,,
+RB-AME126,NEU,Low,Qpulse,"Quality Management system used for audits, corrective actions. Similar to Trackwise. Planned to be moved to Trackwise.",350,Bronze,Cloud,COTS - GAEL Ltd.,SQL Server 2000,Internal / Vendor,30,5.5,YES-2016 (Trackwise),4,,,,
+RB-AME127,NEU,Low,WinLIMS,"Lab Management system used in Holland, Nottingham. Testing and Test results recorded bythe application. Thi s is a validated system",250,Silver,Custom,COTS - QSI,SQL Server 2000,Internal / Vendor,20,1,NO,4,,,,
+RB-AME128,NEU,Low,EtiCAD ,Label printing in Nottingham,30,Silver,Cloud,COTS-ALS,SQL Server 2000,Internal / Vendor,5,5,NO,1,,,,
+RB-AME129,NEU,Low,Alloc8 - Rimillia (Cash allocation/Remittance claim processing),"Automatic CASH allocation system, picks up customer remittance, invoice using OCR to create electronic transaction and processes in the systems. Integration with Credica, email and JDE.. It also has a CSV interface and it is used for high volume customers to avoid OCR errors.",12,Bronze,Cloud,Cloud Database - Rimillia,Cloud Database,Internal / Vendor,5,Cloud,NO,1,,,,
+RB-AME130,NEU,Low,IHS Compliance Suite (Intelligent Authoring) (Product safety docs),"This is a Global application, please see comments",,Bronze,,,,,0,,,,,,,
+RB-AME131,NEU,Low,GLOBALvalidator (Validating regulatory submissions to eCTD),Verifies the output on InSight Publish which produces Regulatory submissions in eCTD format. ,60,Silver,Cloud,Extedo,NA,Internal / Vendor,0,4.1,NO,2,3,,,
+RB-AME132,NEU,Low,eValidator (Validating regulatory submissions to eCTD),Verifies the output on InSight Publish which produces Regulatory submissions in eCTD format. ,60,Silver,Cloud,Vendor - Lorenz,NA,Internal / Vendor,0,5.4.1,NO,2,3,,,
+RB-AME072,NAC,Medium,Leeds (OEE Reporting),OEE data collection,25,Bronze,Custom,,SQL SERVER 2000,Internal,1,1.0.9,Yes,1,,,,
+RB-AME073,NAC,Medium,NAC - Canada Reporting Server,Local Canada Reporting,50,Bronze,Custom,MS reporting servicer,Sql server 2012,Internal,2,SQL 2012,,,,,,
+RB-AME074,NAC,Medium,Labor Management,Warehouse labor management application,300,Bronze,Cloud,Manhattan Labor MGMT,SQL 2005,Internal,1,SQL2005,,,,,,
+RB-AME075,NAC,Medium,MasterControl (Quality Management),Quality Management,1000,Bronze,Cloud,,SQL SERVER 2005,Internal / Vendor,4,10.1.7,,2,,,,
+RB-AME076,NAC,Medium,NAC MRS (Online Supply Services Reporting),Online Supply Services Reports for NAC,50,Bronze,Custom,MS reporting servicer,Sql server 2012,Internal,2,SQL 2012,,,,,,
+RB-AME077,NAC,Medium,AppXtender/OCR Scanning Server,Image capture and document management solution provides electronic access to documents allowing storage of hard copy documents off site.,75,Bronze,Custom,Documentum,SQL Server 2012,Vendor,1,7,,,,,,
+RB-AME078,NAC,Medium,NAC Sales Web Services (Web Portal for Sales),Internally maintained Sales Website for NAC,400,Bronze,Custom,"IIS, Visual Studio/C++",SQL Server 2008,Internal / Vendor,0,,,,,,,
+RB-AME079,NAC,Medium,Shiloh (POS Reporting),"POS reporting tool, desktop application provides RB users access to US & international (Walmart) Retail link data. Also used in Canada for POS data reporting for Canadian retailers. Used for standard and ad hoc reporting",50,Bronze,Cloud,Shiloh,SQL SERVER 2008,Internal ,2,5,,,,,,
+RB-AME080,NAC,Medium,NAC TM1 (Financial Planning),Financial Planning Platform - target for replacement by Anaplan in longer term (Partha Mandal),140,Bronze,Custom,IBM - TM1,TM1,Internal ,25,10.1,,,,,,
+RB-AME081,NAC,Medium,Total HR (Old HR system),Old HR & Payroll system - Used only for references for Pension/ Disabilities etc.,8,Bronze,Custom,GEAC - THR,SQL SERVER 2000,Internal ,0,SQL2000,,,,,,
+RB-AME082,NAC,Medium,NAC Operational Reporting/Impromptu / Cognos,Daily Operational Reports - Microsoft Reporting Services,127,Bronze,Custom,Microsoft Reporting Services - SQL Server 2005,SQL SERVER 2005,Internal / Vendor,30,SQL 2005,,,,,,
+RB-AME083,NAC,Medium,StarLIMS (Lab Management System),Lab Mgt System used in Salt Lake City for Manufacturing Execution and Packing. Standalone from JDE,100,Bronze,Cloud,,SQL SERVER 2005,Internal / Vendor,2,10.4,,1,,,,
+RB-AME084,NAC,Medium,Acumence (OEE Data collection),OEE data collection,25,Bronze,Cloud,,SQL SERVER 2005,Internal,2,6.3,Yes,2,,,,
+RB-AME085,NAC,Medium,Preactor (Finite scheduling),Finite Scheduling Tool,5,Bronze,Cloud,,SQL SERVER 2005,Internal / Vendor,1,10.1,Yes,1,,,,
+RB-AME086,NAC,Medium,Panorama (Demand Planning Reporting),This is for Demand Planning reporting. It is regional application and support regionally,25,Bronze,Custom,Microsoft Reporting Services - SQL Server 2008,SQL SERVER 2008 ,Internal / Vendor,15,SQL  2008,,,,,,
+RB-AME087,NAC,Medium,NAC LMS (Logistics/Warehouse Management System),Logistics Management System,600,Gold,Custom,RPG/SQL,IBM V5R4,Internal / Vendor,100,,Yes,1,,,,
+RB-AME088,NAC,Medium,AFS (SAAS based Trade Promotion management for Food),Food Service - Trade Spend Management System,60,Bronze,Cloud,Cloud ,Cloud,Vendor,3,Cloud,,,,,,
+RB-AME133,LATAM,Medium,DBI Event Viewer,A solution primarily intended to provide a real-time summary of business activities to operations managers and upper management). At RB Brazil it is about automation of various reports & business process tracking (BAM=Business Activity Monitoring),25,Bronze,Cloud,Delphi,Absolute Database 3.2,Vendor,90,4.20.57,NO,1,,,,
+RB-AME135,LATAM,Medium,GKO (Freight Management),Freight Control System,15,Bronze,Cloud,Java,SQL Server 2015 (On premises),Vendor,10,6,NO,1,,,,
+RB-AME136,LATAM,Medium,GQF (SIQ) - Quality Manufacturing Management,Quality MFG management - to be replaced by SIQ,20,Silver,Cloud,Java,Oracle 9.0,Vendor,2,1.6,NO,1,,,,
+RB-AME137,LATAM,Medium,Hodie (Logistics Management and Tracking),Logistics Management and Tracking,10,Bronze,Cloud,Delphi,SQL Server 2015 (On premises),Vendor,5,3,NO,1,,,,
+RB-AME139,LATAM,Medium,Softway (Import/Export Management System),Import/Export Maintenance System,17,Silver,Cloud,Oracle Forms,Oracle 9.0,Vendor,10,9,NO,1,,,,
+RB-AME141,LATAM,Medium,Suricato (Security and Time and Attendance),Security + T&A System,25,Bronze,Cloud,,SQL Server 2015,Vendor,15,,NO,1,,,,
+RB-AME142,LATAM,Medium,Tops Pro (Palletisation),Paletisation,5,Bronze,Cloud,C#,SQL Server 2015,Internal,1,2,NO,1,,,,
+RB-AME143,LATAM,Medium,Point of Sales Reporting,POS Data,35,Bronze,Custom,Java,SQL Server,Internal,1,,YES -  Go Big (Q3-15),1,,,,
+RB-AME144,LATAM,Medium,EDI Client (Order receipt translation client),Order receipt translation client,6,Silver,ERP,,,Internal / Vendor,2,,NO,1,,,,
+RB-AME145,LATAM,Medium,Soriana Database (POS and Inventory Database),Soriana POS and Inventory database,1,Bronze,Custom,Java,SQL Server,Internal,0,,YES,1,,,,
+RB-AME146,LATAM,Medium,iProveedor (A/P visibility to Supplier),Accounts payable visibility to suppliers,15,Silver,Custom,HTML,,Internal / Vendor,1,,NO,1,,,,
+RB-AME147,LATAM,Medium,E-Maint (Maintenance Management System),Maintenance management system,15,Bronze,Cloud,,NA,Vendor,0,,NO,1,,,,
+RB-AME148,LATAM,Medium,Ramsys (Regulatory Dossier Management),Regulatory Dossier Management,6,Bronze,Cloud,Java / SQL,,Internal / Vendor,0,,NO,1,,,,
+RB-AME149,LATAM,Medium,SuperCep (Daily control of Production lines output),Daily control of production lines output,20,Silver,,,,Internal,0,,NO,1,,,,
+RB-AME150,LATAM,Medium,Payroll (Colombia),Payroll Colombia,1,Silver,Custom,PL/SQL,Oracle 9.2.0.5,Vendor,1,6.21,Yes,1,,,,
+RB-AME151,LATAM,Medium,Celuweb (4Ps application for Colombia),4P's application,17,Silver,Cloud,,,Vendor,3,,,,,,,
+RB-AME152,LATAM,Medium,NWA Quality Analyst (Quality Analysis database),Quality Analysis database,5,Bronze,Custom,,Datafiles,Vendor,0,5.1,,,,,,
+RB-AME153,LATAM,Medium,Facil (Invoice Printing),Invoices printing,6,Silver,Custom,,,Vendor,1,1.3,,,,,,
+RB-AME154,LATAM,Medium,EDI Assenda (Columbia),EDI,2,Gold,Cloud,,,Vendor,2,,,,,,,
+RB-AME155,LATAM,Medium,Nomiplus (Time and Attendance),Time and attendance,5,Silver,Custom,,,Vendor,2,,,,,,,
+RB-AME156,LATAM,Medium,Payroll Algoliq (Argentina Payroll),Payroll Argentina,2,Silver,,,,,0,,,,,,,
+RB-AME161,SOA,Low,SOA Bangladesh VAT System ,"Value Added Tax System, Depo users for shipment",12,Bronze,Custom,VB .NET,SQL Server 2008,Internal,15,NA,No,1,2,,,
+RB-AME162,SOA,Low,CAMS - Excise Reporting India,Excise calculation and reporting,12,Silver,Custom,VB,SQL Server 2005,Internal,10,NA,No,1,11,,,
+RB-AME164,SOA,Low,MMS (Mold Management System),Mold Management System,10,Bronze,Custom,Asp.Net,,Internal,1,NA,No,1,3,,,
+RB-AME165,SOA,Low,Rhythm (Supply chain planning - being phased out),Rhythm used in India for Supply Network Planning.,10,Bronze,Custom,VB .NET + C,SQL Server 2005,Internal,5,NA,No,1,2,,,
+RB-AME166,SOA,Low,Zoom/DMS,Distributor Order Shipping and billing system for Bangladesh,100,Gold,Cloud,COTS-BOTREE,SQL Server 2005,Internal,500,4.4.01,No,86,4,,,
+RB-AME167,SOA,Low,CRS (Continuous Replenishment System),Continuous Replenishment System,200,Bronze,Custom,ASP .NET,MICROSOFT SQL SERVER 2012,Vendor,15,3,No,6,2,,,
+RB-AME168,NAMET,Medium,E-Buyer (Non Production Spend),Non-Production Spend Management at HO and Factory,40,Bronze,Cloud,.NET,SQL,Internal / Vendor,5,,Yes,1,7,,,
+RB-AME169,NAMET,Medium,E-Connect,Travel and Leave management system. It is a completely new tool which replaced E-travel and E-leave- Response by KA,180,Bronze,Cloud,.NET,SQL,Vendor,5,,No,1,2,,,
+RB-AME170,NAMET,Medium,TimeTrax (Payroll management and Time tracking),Employee Payroll Management & Time Tracking for Factory,300,Bronze,Cloud,.NET,SQL,Vendor,5,,No,1,6,,,
+RB-AME171,NAMET,Medium,E-Link (Customer order management),Customer Order Management,275,Silver,Cloud,.NET,SQL,Vendor,5,,No,1,9,,,
+RB-AME172,NAMET,Medium,E-Quality (Customer complaints),System to manage Customer Complaints related to Product Quality,285,Bronze,Cloud,.NET,SQL,Vendor,2,,No,1,6,,,
+RB-AME173,NAMET,Medium,S&D Pro (Sales Force Automation),Sales Force Automation & Distributor Management System ,125,Bronze,Custom,.NET,SQL,Internal / Vendor,20,,No,1,4,,,
+RB-AME174,NAMET,Medium,DYS (Scan and follow-up customer invoices),Application to scan and follow up Customer Invoices previously named EDT,20,Gold,Custom,,,Vendor,0,,,,,,,
+RB-AME175,NAMET,Medium,EnRoute SAS (Trade Execution - Turkey),Secondary Sales execution system,30,Bronze,Cloud,,,Vendor,0,,,,,,,
+RB-AME176,NAMET,Medium,Item Creation (Turkey),,4,Gold,Custom,,,Vendor,0,,,,,,,
+RB-AME177,NAMET,Medium,TraceGateWay,2D Pharma Barcoding System,8,Gold,Cloud,,,Vendor,0,,,,,,,
+RB-AME178,NAMET,Medium,VMS,Vacation Management System,359,Silver,Custom,,,Internal / Vendor,0,,,,,,,
+RB-AME179,NAMET,Medium,Activity Planning Tool (Promotion planning - Turkey),Promotional Planning,50,Silver,Cloud,,,Vendor,0,,,,,,,
+RB-AME180,NAMET,Medium,BIMSA (Payroll),Payroll,2,Silver,Cloud,,,Vendor,0,,,,,,,
+RB-AME181,NAMET,Medium,CMMS (Factory Maintenance Turkey),Factory maintenance and planning system,5,Bronze,Cloud,,,Vendor,0,,,,,,,
+RB-AME182,NAMET,Medium,Tinventory - Local Asset management (Turkey),"The application is fix-asset management tool. All TR assets in the application. We are following all our assets with it. Tinventory had 4 functions 
+1. HQ,assets by HR
+2. Factory assets by Factory manager
+3. IS asset by IS-PD
+4. Personnel by all",6,Bronze,Custom,,,Internal / Vendor,0,,,,,,,
+RB-AME183,NAMET,Medium,TopsPRo,The application is for package design. All items design and developed with that.,3,Bronze,Cloud,,,Vendor,0,,,,,,,
+RB-AME184,NAMET,Medium,WMS (Warehouse Management System),Warehouse Management system. The application ensure us good stock management. We use barcoding system with handheld devices to follow all our product stock.,,Gold,Custom,,,Vendor,0,,,,,,,
+RB-AME185,NAMET,Medium,Zen (Artwork Approval),Application is being used for artwork approval,,Bronze,Cloud,,,Vendor,0,,,,,,,
+RB-AME186,NAMET,Medium,Turkey Sales Reporting (Microstrategy),"Sales Reporting - BI (IMS, 4P)",30,Bronze,Cloud,,,Vendor,0,,,,,,,
+RB-AME187,NAMET,Medium,Demand Solution,Demand management and fulfilment application,10,Bronze,Cloud,-,SQL,Vendor,5,DSX,No,1,,,,
+RB-AME188,NAMET,Medium,CreatePrint (Invoice print to PDF),Convert JDE Invoice spool file into PDF and then email to the customers and respective RB Staff,280,Bronze,Cloud,-,-,Internal / Vendor,3,-,No,1,,,,
+RB-AME189,AFRICA,Medium,Shopware (e-commerce tool),SHOPWARE - production performance online.,1,Gold,Cloud,VB.NET,SQL,Vendor ,0,V15,No,1,,,,
+RB-AME190,AFRICA,Medium,SL WMS (Plant Maintenance),Plant Maintenance Engineering,4,Gold,Custom,VB.Net,SQL,Vendor,5,,No,1,,,,
+RB-AME207,CHQ,Low,Condeco (Meeting room booking system in CHQ),"Condeco is a centralised booking tool for managing meeting rooms, desks and multiple resources through a web based platform.",,Bronze,,,,,0,,,,,,,
+RB-AME208,CHQ,Low,Intellisearch (Search engine for Global Business Intelligence),Search Engine Tool used by Global Business Intelligence team. It is a web-based application used within CHQ.Search external product information on RB's behalf,,Bronze,,,,,0,,,,,,,
+RB-AME200,NOA,Low,China IMS (Oval - Service for gathering IMS),IMS (Similar to Trade Edge) - local IMS service,15,Silver,Custom,.NET,SQL Server 2012 Enterprise,Internal / Vendor,5,4.6,,1,,,,
+RB-AME210,WEU,Low,E Planning,Financial Brand planning tool,20,Silver,Custom,Cognos,Sql Server 2000,Internal / Vendor,1,?,No,1,,,,
+RB-AME201,NOA,Low,"China EPOS, CTMS, E-order","Sales POS collection, Trade spend management, 4P collection, order collection",300,Gold,Custom,.NET,SQL Server 2008 Enterprise,Internal / Vendor,5,3.2,,1,,,,
+RB-AME211,WEU,Low,E Planning,Financial Brand planning tool,20,Silver,Custom,Cognos,Sql Server 2005,Internal / Vendor,1,?,No,1,,,,
+RB-AME202,NOA,Low,China FIN Reports (Financial Reporting),Financial Reporting,5,Silver,Custom,.NET,SQL Server 2005,Internal / Vendor,3,1,,1,,,,
+RB-AME212,WEU,Low,Archivo Electronico,invoice approval workflow,100,Bronze,Cloud,,,Vendor,10,?,No,1,,,,
+RB-AME203,NOA,Low,China Legacy Payroll,Legacy payroll application running on Microsoft.Net platform,2,Silver,Custom,Client / Server,SQL Server 2005,Internal / Vendor,2,6.4,,1,,,,
+RB-AME213,WEU,Low,Optio (Invoice Generation and Printing),Invoice generation and printing system,5,Silver,Custom,Vendor,Sql Server 2000,Internal / Vendor,1,?,Planned (Q4-15),1,,,,
+RB-AME214,NAMET,Medium,TimeTrax (Payroll management and Time tracking),Employee Payroll Management,200,Bronze,Cloud,.NET/SQL,SQL,Vendor,3,-,No,1,,,,
+RB-AME204,NOA,Low,China/HongKong TM1 (Financial Planning),Financial Planning Platform - target for replacement by Anaplan in longer term (Partha Mandal),30,Gold,Custom,TM1,IBM Cognos TM1 10.2,,40,10.2,,2,,,,
+RB-AME215,NAMET,Medium,E-Leave,Employee leaves management,200,Bronze,Cloud,.NET/SQL,SQL,Vendor,3,-,No,1,,,,
+RB-AME205,NOA,Low,China CRM (Microsoft Dynamics?),Consumer e-tailing information,30,Silver,Cloud,.NET based Microsoft Dynamics CRM Extension,SQL Server 2012 Enterprise,Internal / Vendor,20,2015,,1,,,,
+RB-AME206,NOA,Low,Personalised Condoms (P1) - Web store - (Magento/Hybris),Personalised condoms store,17293,Gold,Custom,Magento / PHP,MySQL 5.6.22,Internal / Vendor,20,1.9.0.1,,1,,,,
+RB-AME217,NAMET,Medium,OTM,"Transportation planning, shipment documentation & freight accruals Management",285,GOLD,Cloud,ORACLE,ORACLE,Vendor,0,-,Develop,1,0,,,
+RB-AME218,NAMET,Medium,Daily Sales,Daily Sales reports - Global App,15,Silver,Cloud,.NET/SQL,SQL,Internal ,6,-,No,1,,,,
+RB-AME232,Canada,Low,Local Reporting Servers,All these server host SQL packages / reports / Cube require to support Canadian local reporting. E.g. Daily Monitor Report / Special Pack forecast process / TM cube etc,50,Bronze,Custom,MS reporting servicer,Sql server 2012,Internal,2,SQL 2012,,,,,,
+RB-AME220,NAMET,Medium,Freeweight,"Product weight recording application, it is recording each product in factory. Working an a standalone desktop computer in factory.",,Bronze,Cloud,,,Vendor,0,,,,,,,
+RB-AME221,NAMET,Medium,Meyer - Door Access System,"Door access system is working for HQ, Tuzla,Gebze,Esenyurt Office. It is managing by Administrative manager.",,Gold,Cloud,,,Internal / Vendor,0,,,,,,,
+RB-AME222,NAMET,Medium,Medy (E-Ledger submission/archive program),Creates required format and manages online submission for E-Ledger to the Turkish Government (GIB),,Silver,Custom,,,Internal / Vendor,0,,,,,,,
+RB-AME224,NAMET,Medium,CreatePrint (Invoice print to PDF),Convert JDE Invoice spool file into PDF and then email to the customers and respective RB Staff,275,Bronze,Cloud,-,-,Internal / Vendor,1,-,No,1,4,,,
+RB-AME225,USA,Low,Reporting Server,Local Canada Reporting,50,Bronze,Custom,MS reporting servicer,Sql server 2012,Internal,2,SQL 2012,,,,,,
+RB-AME226,USA,Low,Cimplicity,Engineering controller system for flushing meadows toilet laboratory,20,Bronze,Custom,"Visual Studio, C++",SQLServer 2008,Vendor,0,8,,,,,,
+RB-AME227,USA,Low,SIMS Server,"Sensory Informational Management System used for questionnaire development, test execution, consumer direct data entry system, statistical data analysis",10,Bronze,Cloud,,SQL Server 2008,Vendor,0,2000,,,,,,
+RB-AME228,USA,Low,SIMS Server - Uses SAS,Systical analysis software,5,Bronze,Cloud,,,SAS,0,,,,,,,
+RB-AME229,USA,Low,ARCS,Consumer Recruiting for sensory testing,10,Bronze,Cloud,,SQL Server 2005,Vendor,0,,,,,,,
+RB-AME230,USA,Low,MicroStar,A workflow designed application used to manage requests/results for Microbiological testing.,100,Bronze,Custom,,SQLServer 2008,Vendor,0,,,,,,,
+RB-AME231,USA,Low,MRS,Online Supply Services Reports for NAC,50,Bronze,Custom,MS reporting servicer,Sql server 2012,Internal,2,SQL 2012,,,,,,
+RB-AME234,SEU,Low,PGM Unico,Line scheduling system,5,Bronze,Custom,Local Vendor,MS Access 2003,Vendor,5,1,No,1,1,,,
+RB-AME235,SEU,Low,Agenda,Doctor Detailing System,32,Bronze,Cloud,Client-Server,SQL 2008,Vendor,2,,NO,1,,,,
+RB-AME236,SEU,Low,Ergonwin (Access Control),Access Control System and Site Security,557,Silver,Cloud,Client-Server,SQL 2008,Internal / Vendor,2,,NO,1,,,,
+RB-AME237,SEU,Low,Query Shell,Sales Reporting,239,Bronze,Custom,Client-Server,SQL 2000,Internal,15,NA,NO,1,,,,
+RB-AME238,LATAM,Medium,Bancomer - Cash Windows,Bank application for electronic payment,1,Silver,,,,Internal,0,,NO,1,,,,
+RB-AME239,LATAM,Medium,eMaint,Maintenance Software,4,Bronze,Cloud,Java/ SQL,,Vendor,2,X3,,1,,,,
+RB-AME240,LATAM,Medium,iProveedor,Accounts payable visibility/tax certificates to suppliers,1,Silver,Cloud,,NA,Vendor,0,,,1,,,,
+RB-AME241,LATAM,Medium,G4S Access,Entrance and cafeteria control,250,Silver,Custom,,SQL Server,Vendor,0,,,2,,,,
+RB-AME242,LATAM,Medium,ISODOC / SoftExpert SE,"Software to manage documentation, action plans and trainings for para ISO 9001, 14001 e OHSAS 18001",30,Bronze,Cloud,Java,Oracle 9.0,Vendor,2,5,YES,1,,,,
+RB-AME243,LATAM,Medium,H2W,Software to manage Pre-Emptive and Corrective Factory maintenance and also Line Controls.,10,Bronze,Cloud,C#,SQL Server 2015,Vendor,3,2,NO,1,,,,
+RB-AME244,LATAM,Medium,SSCC,"Software to Manage Shipping Labels, Warehouse Movements and production booking",50,Gold,Cloud,C#,SQL Server 2015,Vendor,2,1,NO,1,,,,
+RB-AME245,LATAM,Medium,KaWhy Gate,Gate Control of Carriers (Inbound and Outbound),90,Bronze,Custom,Java,Oracle 9.0,Internal / Vendor,15,NA,NO,1,,,,
+RB-AME246,LATAM,Medium,KaWhy Customer Service,Suite of tools which exchange Invoice (XML) information with Key Customers,1,Bronze,Custom,Java,N/A,Internal / Vendor,5,NA,NO,1,,,,
+RB-AME247,LATAM,Medium,SysCoop,Control of the members of the cooperative,5,Bronze,Cloud,Delphi,BDE,Internal,1,NA,NO,1,,,,
+RB-AME248,LATAM,Medium,MJDS,Social security system Brazilian Government requirement,5,Bronze,Cloud,Delphi,BDE,Internal,1,NA,NO,1,,,,
+RB-AME249,LATAM,Medium,E-Expense,Tool for Employee Expense Management,600,Bronze,Custom,?,?,Internal,0,,?,1,,,,
+RB-AME250,LATAM,Medium,OAS - LATAM (Local),Workflow,100,Bronze,Custom,Java,SQL,Internal,3,,?,1,,,,
+RB-AME251,LATAM,Medium,X-Plan,Software used for Demand planning calculations as heuristics and forecast models.,5,Bronze,Cloud,Java,Oracle 9.0,Vendor,3,5.5,YES,1,,,,
+RB-AME252,LATAM,Medium,Latam BIZ,Brazil RB Intranet,1200,Bronze,Custom,Java,SQL iis,Internal,0,,Yes - Q4-15,1,,,,
+RB-AME253,LATAM,Medium,Synchro SFW,"Solucao Fiscal Web is a cloud-based front-end application which handles SPED EFD Contribuicoes  which is suite of Govern Regulatory Reports divided in blocks, which includes Accounting information.",5,Bronze,Cloud,Java,SQL Server 2015 (On premises),Vendor,15,,NO,1,,,,
+RB-AME254,LATAM,Medium,Synchro DFe Web,Nota Fiscal Eletronica (Brazil Electronic Invoice),250,Gold,Cloud,Java,Oracle,Vendor,80,12,NO,1,,,,
+RB-AME255,LATAM,Medium,Synchro SOLFIS SPED Fiscal / Accounting,Regulatory Fiscal Reports,5,Bronze,Cloud,Java,Oracle 9.0,Vendor,10,5,NO,1,,,,
+RB-AME256,ASEAN,Medium,RUMBA 2000,Printer server application for JDE,50,Bronze,Cloud,Vendor - Effect Makers,None,Service Integration,5,6,No,1,,,,
+RB-AME257,ASEAN,Medium,DLP,Symantec Data Loss Prevention,150,Bronze,Cloud,Vendor - Effect Makers,Oracle 11,Internal / Vendor,5,11.6.3,NO,1,,,,
+RB-AME258,ASEAN,Medium,Sphone,Telephone system(Recording & Distribution)  for CS center,4,Gold,Cloud,Vendor - Effect Makers,MS SQL 2005,Internal / Vendor,1,-,NO,1,,,,
+RB-AME259,ASEAN,Medium,local S&OP tool ,S& OP tool ,10,Bronze,Custom,Excel,MS SQL Server ,Internal,2,-,,,,,,
+RB-AME260,ASEAN,Medium,E-Expense,Expense Management System,100,Bronze,Cloud,ASP.NET,MS SQL Server ,Internal / Vendor,10,-,,,,,,
+RB-AME261,ASEAN,Medium,EAA OAS,Online Approval System,200,Bronze,Cloud,ASP.NET,MS SQL Server ,Internal,10,-,,,,,,
+RB-AME262,ASEAN,Medium,Sales tool (Local SEED),Local SEED - Distributor management system and sales force automation for Traditional Trade channel and Merchandiser module for 4P tracking,120,Bronze,Custom,Web-based application and mobile application,"SQL Server 2010 
+( Hosted in Thailand)",Internal / Vendor,80,Version 4.993,NO,1,,,,
+RB-AME264,ASEAN,Medium,Local Cognos,BI Tools - contain IMS Shipment NR TS ,50,Bronze,Custom,Cognos application,SQL Server 2008 ,Internal,3,,NO,1,,,,
+RB-AME265,ASEAN,Medium,Local TSM,Trade spend management system using for sales and finance controller to accrue trade spend,50,Bronze,Custom,C# and VB.net,SQL Server 2008 ,Internal,10,,NO,1,,,,
+RB-AME266,ASEAN,Medium,In Market sales application,IMS data upload for GT OTC and IDC,20,Bronze,Custom,Web-based application ,SQL Server 2008 ,Regional,5,,NO,1,,,,
+RB-AME267,ASEAN,Medium,Daily sales data,Daily sales data application,10,Bronze,Custom,Database / Cognos,SQL Server 2008 ,Regional,5,,NO,1,,,,
+RB-AME268,ASEAN,Medium,Old Sales Mining (Client / Server),"IMS data reporting system based on PLANET sales history data. This system is introduced about 8 years ago, and cannot run on W7 properly. This system has been replaced by SMS, but will alive until June.",70,Bronze,Cloud,Vendor - NTT Technology,Oracle 8,Internal,5,-,Yes- 2015,1,,,,
+RB-AME269,ASEAN,Medium,Wholeseller Reporting on TM1,RB Shipping information reporting system on TM1 technology.,10,Bronze,Cloud,TM1,TM1,Internal / Vendor,5,-,NO,1,,,,
+RB-AME270,ASEAN,Medium,Management Report on TM1,RBJ Management reporting with IMS information. ,5,Bronze,Custom,TM1,TM1,Internal / Vendor,5,-,NO,1,,,,
+RB-AME271,ASEAN,Medium,Earth Chemical FTR reporting,"Earth Chemical IMS reporting system on PENTAHO solution due to different IMS data source and format with PLANET,",70,Bronze,Custom,PENTAHO,PENTAHO,Internal / Vendor,5,-,NO,1,,,,
+RB-AME272,ASEAN,Medium,Earth Chemical Shipping reporting,Earth Chemical Shipping  to wholesellers reporting on PENTAHO solution.,10,Bronze,Custom,PENTAHO,PENTAHO,Internal / Vendor,5,-,NO,1,,,,
+RB-AME273,ASEAN,Medium,Earth Chemical TI (Trade Investment) system,"Earth Chemical TI payment system, which creates payment record to send to Earth Chemical.",5,Gold,Custom,PENTAHO,PENTAHO,Internal / Vendor,5,-,NO,1,,,,
+RB-AME274,ASEAN,Medium,Store Manager,Store shelf display demonstration system used by sales reps.,60,Bronze,Cloud,COST,N/A,Internal,2,-,NO,1,,,,
+RB-AME275,ASEAN,Medium,PLANET EDI,"Order taking, Daily Invoicing and Monthly Invoicing are on EDI solution via PLANET VAN company.",0,Gold,Custom,AS2,N/A,Internal,2,-,NO,1,,,,
+RB-AME276,ASEAN,Medium,Warehouse EDI,"Shipping request, Shipping Confirmation, Item Master information, PO receipt advice are run on EDI solution with MARUZEN warehouse.",0,Gold,Custom,AS2,N/A,Internal,2,-,NO,1,,,,
+RB-AME277,ASEAN,Medium,Earth Chemical EDI,"Earth IMS, Shipping, Inventory information and related master data are provided to RB with EDI, and RB provides inventory information to Earth Chemical with EDI. ",0,Silver,Custom,ZENGIN,N/A,Internal / Vendor,2,-,NO,1,,,,
+RB-AME278,ASEAN,Medium,Japan Consumption Tax Report on JDE (JP Localization),Consumption Tax reporting system to make tax report to submit to authority.,5,Bronze,Custom,AS400,N/A,Internal / Vendor,2,A7.3.10,NO,1,,,,
+RB-AME279,ASEAN,Medium,RBSM,RB One Project - Spend Management,20,Silver,Cloud,COST - RB,N/A,Internal,2,,NO,1,,,,
+RB-AME280,ASEAN,Medium,TSM,RB One project - Trade Spend Management,50,Silver,Cloud,COST - RB,N/A,Internal,5,,NO,1,,,,
+RB-AME281,ASEAN,Medium,MDM,RB Master Data Management,15,Silver,Cloud,COST - RB,N/A,Internal,5,-,NO,1,,,,
+RB-AME282,ASEAN,Medium,NPD Tracker,Used for NPD forecasting and actual analysis on Salesforce.com,50,Bronze,Custom,COST - Salesforce.com,N/A,Internal,5,,NO,1,,,,
+RB-AME283,ASEAN,Medium,KINNOSUKE,RBJ attendance record system ,150,Bronze,Cloud,COST - HOYA service,N/A,Internal / Vendor,0,-,NO,1,,,,
+RB-AME284,ASEAN,Medium,ShareStage,RBJ FTP site,150,Bronze,Cloud,COST - NTT Communications,N/A,Internal / Vendor,0,-,NO,1,,,,
