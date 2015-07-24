@@ -201,7 +201,7 @@ table(appsdata.complete$PriceBand.SEM,appsdata.complete$PriceBand.LR)
 
 100*sum(diag(table(appsdata.complete$PriceBand.SEM,appsdata.complete$PriceBand.LR)))/sum(table(appsdata.complete$PriceBand.SEM,appsdata.complete$PriceBand.LR))
 
-
+write.csv(appsdata.complete,"Output.csv")
 # ------------------------------EOF --------------
 
 
